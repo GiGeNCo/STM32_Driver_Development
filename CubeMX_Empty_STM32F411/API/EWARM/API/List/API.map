@@ -1,0 +1,426 @@
+###############################################################################
+#
+# IAR ELF Linker V9.60.3.422/W64 for ARM                  25/Nov/2024  14:20:45
+# Copyright 2007-2024 IAR Systems AB.
+#
+#    Output file  =
+#        C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Exe\API.out
+#    Map file     =
+#        C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\List\API.map
+#    Command line =
+#        -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Exe\API.out.rsp"
+#        ("C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\Src_16888587958509051496.dir\gpio_stm32f411ceux.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\Core_13247989168731456611.dir\main.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\EWARM_18443280873093131863.dir\startup_stm32f411xe.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\STM32F4xx_HAL_Driver_1244631019742807970.dir\stm32f4xx_hal.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\STM32F4xx_HAL_Driver_1244631019742807970.dir\stm32f4xx_hal_cortex.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\STM32F4xx_HAL_Driver_1244631019742807970.dir\stm32f4xx_hal_dma.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\STM32F4xx_HAL_Driver_1244631019742807970.dir\stm32f4xx_hal_dma_ex.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\STM32F4xx_HAL_Driver_1244631019742807970.dir\stm32f4xx_hal_exti.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\STM32F4xx_HAL_Driver_1244631019742807970.dir\stm32f4xx_hal_flash.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\STM32F4xx_HAL_Driver_1244631019742807970.dir\stm32f4xx_hal_flash_ex.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\STM32F4xx_HAL_Driver_1244631019742807970.dir\stm32f4xx_hal_flash_ramfunc.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\STM32F4xx_HAL_Driver_1244631019742807970.dir\stm32f4xx_hal_gpio.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\Core_13247989168731456611.dir\stm32f4xx_hal_msp.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\STM32F4xx_HAL_Driver_1244631019742807970.dir\stm32f4xx_hal_pwr.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\STM32F4xx_HAL_Driver_1244631019742807970.dir\stm32f4xx_hal_pwr_ex.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\STM32F4xx_HAL_Driver_1244631019742807970.dir\stm32f4xx_hal_rcc.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\STM32F4xx_HAL_Driver_1244631019742807970.dir\stm32f4xx_hal_rcc_ex.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\STM32F4xx_HAL_Driver_1244631019742807970.dir\stm32f4xx_hal_tim.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\STM32F4xx_HAL_Driver_1244631019742807970.dir\stm32f4xx_hal_tim_ex.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\Core_13247989168731456611.dir\stm32f4xx_it.o"
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\CMSIS_6603591812247902717.dir\system_stm32f4xx.o"
+#        --no_out_extension -o
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Exe\API.out" --redirect
+#        _Printf=_PrintfFullNoMb --redirect _Scanf=_ScanfFullNoMb --map
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\List\API.map" --config
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM/stm32f411xe_flash.icf"
+#        --semihosting --entry __iar_program_start --vfe --text_out locale
+#        --cpu=Cortex-M4 --fpu=VFPv4_sp) --dependencies=n
+#        "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded
+#        Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Exe\API.out.iar_deps"
+#
+###############################################################################
+
+*******************************************************************************
+*** RUNTIME MODEL ATTRIBUTES
+***
+
+CppFlavor       = *
+__CPP_Runtime   = 1
+__SystemLibrary = DLib
+__dlib_version  = 6
+
+
+*******************************************************************************
+*** HEAP SELECTION
+***
+
+The basic heap was selected because --advanced_heap
+was not specified and the application did not appear to
+be primarily optimized for speed.
+
+
+*******************************************************************************
+*** PLACEMENT SUMMARY
+***
+
+"A0":  place at address 0x800'0000 { ro section .intvec };
+"P1":  place in [from 0x800'0000 to 0x807'ffff] { ro };
+define block CSTACK with size = 1K, alignment = 8 { };
+define block HEAP with size = 512, alignment = 8 { };
+"P2":  place in [from 0x2000'0000 to 0x2001'ffff] {
+          rw, block CSTACK, block HEAP };
+initialize by copy { rw };
+
+  Section            Kind         Address  Alignment   Size  Object
+  -------            ----         -------  ---------   ----  ------
+"A0":                                                 0x198
+  .intvec            ro code   0x800'0000          4  0x198  startup_stm32f411xe.o [3]
+                             - 0x800'0198             0x198
+
+"P1":                                                 0x828
+  .text              ro code   0x800'0198          4  0x544  gpio_stm32f411ceux.o [5]
+  .text              ro code   0x800'06dc          4   0xbc  main.o [2]
+  .text              ro code   0x800'0798          2   0x2a  copy_init3.o [8]
+  .text              ro code   0x800'07c4          4   0x28  data_init.o [8]
+  .text              ro code   0x800'07ec          4   0x22  fpinit_M.o [7]
+  .iar.init_table    const     0x800'0810          4   0x14  - Linker created -
+  .text              ro code   0x800'0824          4   0x1e  cmain.o [8]
+  .text              ro code   0x800'0842          2    0x4  low_level_init.o [6]
+  .text              ro code   0x800'0846          2    0x4  exit.o [6]
+  .text              ro code   0x800'084c          4    0xa  cexit.o [8]
+  .text              ro code   0x800'0858          4   0x14  exit.o [9]
+  .text              ro code   0x800'086c          4   0x1c  cstartup_M.o [8]
+  .text              ro code   0x800'0888          4   0x18  stm32f4xx_hal.o [4]
+  .text              ro code   0x800'08a0          2   0x18  stm32f4xx_it.o [2]
+  .text              ro code   0x800'08b8          4   0x10  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'08c8          4   0x10  system_stm32f4xx.o [1]
+  Initializer bytes  const     0x800'08d8          4    0x8  <for P2-1>
+  .text              ro code   0x800'08e0          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'08e4          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'08e8          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'08ec          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'08f0          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'08f4          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'08f8          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'08fc          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0900          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0904          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0908          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'090c          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0910          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0914          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0918          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'091c          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0920          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0924          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0928          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'092c          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0930          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0934          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0938          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'093c          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0940          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0944          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0948          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'094c          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0950          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0954          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0958          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'095c          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0960          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0964          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0968          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'096c          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0970          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0974          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0978          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'097c          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0980          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0984          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0988          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'098c          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0990          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0994          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'0998          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'099c          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'09a0          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'09a4          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'09a8          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'09ac          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'09b0          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'09b4          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'09b8          2    0x4  startup_stm32f411xe.o [3]
+  .text              ro code   0x800'09bc          2    0x4  startup_stm32f411xe.o [3]
+  .rodata            const     0x800'09c0               0x0  copy_init3.o [8]
+                             - 0x800'09c0             0x828
+
+"P2", part 1 of 2:                                      0x8
+  P2-1                        0x2000'0000          4    0x5  <Init block>
+    .bss             inited   0x2000'0000          4    0x4  stm32f4xx_hal.o [4]
+    .data            inited   0x2000'0004               0x1  stm32f4xx_hal.o [4]
+                            - 0x2000'0005               0x5
+
+"P2", part 2 of 2:                                    0x400
+  CSTACK                      0x2000'0008          8  0x400  <Block>
+    CSTACK           uninit   0x2000'0008             0x400  <Block tail>
+                            - 0x2000'0408             0x400
+
+Unused ranges:
+
+         From           To      Size
+         ----           --      ----
+   0x800'09c0   0x807'ffff  0x7'f640
+  0x2000'0408  0x2001'ffff  0x1'fbf8
+
+
+*******************************************************************************
+*** INIT TABLE
+***
+
+          Address      Size
+          -------      ----
+Copy (__iar_copy_init3)
+    1 source range, total size 0x8 (160% of destination):
+           0x800'08d8   0x8
+    1 destination range, total size 0x5:
+          0x2000'0000   0x5
+
+
+
+*******************************************************************************
+*** MODULE SUMMARY
+***
+
+    Module                 ro code  ro data  rw data
+    ------                 -------  -------  -------
+command line/config:
+    ------------------------------------------------
+    Total:
+
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\CMSIS_6603591812247902717.dir: [1]
+    system_stm32f4xx.o          16
+    ------------------------------------------------
+    Total:                      16
+
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\Core_13247989168731456611.dir: [2]
+    main.o                     188
+    stm32f4xx_it.o              24
+    ------------------------------------------------
+    Total:                     212
+
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\EWARM_18443280873093131863.dir: [3]
+    startup_stm32f411xe.o      648
+    ------------------------------------------------
+    Total:                     648
+
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\STM32F4xx_HAL_Driver_1244631019742807970.dir: [4]
+    stm32f4xx_hal.o             24        5        5
+    ------------------------------------------------
+    Total:                      24        5        5
+
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\Src_16888587958509051496.dir: [5]
+    gpio_stm32f411ceux.o     1'348
+    ------------------------------------------------
+    Total:                   1'348
+
+dl7M_tln.a: [6]
+    exit.o                       4
+    low_level_init.o             4
+    ------------------------------------------------
+    Total:                       8
+
+m7M_tls.a: [7]
+    fpinit_M.o                  34
+    ------------------------------------------------
+    Total:                      34
+
+rt7M_tl.a: [8]
+    cexit.o                     10
+    cmain.o                     30
+    copy_init3.o                42
+    cstartup_M.o                28
+    data_init.o                 40
+    ------------------------------------------------
+    Total:                     150
+
+shb_l.a: [9]
+    exit.o                      20
+    ------------------------------------------------
+    Total:                      20
+
+    Gaps                         6        2
+    Linker created                       23    1'024
+----------------------------------------------------
+    Grand Total:             2'466       30    1'029
+
+
+*******************************************************************************
+*** ENTRY LIST
+***
+
+Entry                       Address   Size  Type      Object
+-----                       -------   ----  ----      ------
+.iar.init_table$$Base    0x800'0810          --   Gb  - Linker created -
+.iar.init_table$$Limit   0x800'0824          --   Gb  - Linker created -
+?main                    0x800'0825         Code  Gb  cmain.o [8]
+ADC_IRQHandler           0x800'0925         Code  Wk  startup_stm32f411xe.o [3]
+BusFault_Handler         0x800'08a7    0x2  Code  Gb  stm32f4xx_it.o [2]
+CSTACK$$Base            0x2000'0008          --   Gb  - Linker created -
+CSTACK$$Limit           0x2000'0408          --   Gb  - Linker created -
+DMA1_Stream0_IRQHandler
+                         0x800'0909         Code  Wk  startup_stm32f411xe.o [3]
+DMA1_Stream1_IRQHandler
+                         0x800'090d         Code  Wk  startup_stm32f411xe.o [3]
+DMA1_Stream2_IRQHandler
+                         0x800'0911         Code  Wk  startup_stm32f411xe.o [3]
+DMA1_Stream3_IRQHandler
+                         0x800'0915         Code  Wk  startup_stm32f411xe.o [3]
+DMA1_Stream4_IRQHandler
+                         0x800'0919         Code  Wk  startup_stm32f411xe.o [3]
+DMA1_Stream5_IRQHandler
+                         0x800'091d         Code  Wk  startup_stm32f411xe.o [3]
+DMA1_Stream6_IRQHandler
+                         0x800'0921         Code  Wk  startup_stm32f411xe.o [3]
+DMA1_Stream7_IRQHandler
+                         0x800'0975         Code  Wk  startup_stm32f411xe.o [3]
+DMA2_Stream0_IRQHandler
+                         0x800'0985         Code  Wk  startup_stm32f411xe.o [3]
+DMA2_Stream1_IRQHandler
+                         0x800'0989         Code  Wk  startup_stm32f411xe.o [3]
+DMA2_Stream2_IRQHandler
+                         0x800'098d         Code  Wk  startup_stm32f411xe.o [3]
+DMA2_Stream3_IRQHandler
+                         0x800'0991         Code  Wk  startup_stm32f411xe.o [3]
+DMA2_Stream4_IRQHandler
+                         0x800'0995         Code  Wk  startup_stm32f411xe.o [3]
+DMA2_Stream5_IRQHandler
+                         0x800'099d         Code  Wk  startup_stm32f411xe.o [3]
+DMA2_Stream6_IRQHandler
+                         0x800'09a1         Code  Wk  startup_stm32f411xe.o [3]
+DMA2_Stream7_IRQHandler
+                         0x800'09a5         Code  Wk  startup_stm32f411xe.o [3]
+DebugMon_Handler         0x800'08ad    0x2  Code  Gb  stm32f4xx_it.o [2]
+EXTI0_IRQHandler         0x800'08f9         Code  Wk  startup_stm32f411xe.o [3]
+EXTI15_10_IRQHandler     0x800'0969         Code  Wk  startup_stm32f411xe.o [3]
+EXTI1_IRQHandler         0x800'0763   0x26  Code  Gb  main.o [2]
+EXTI2_IRQHandler         0x800'08fd         Code  Wk  startup_stm32f411xe.o [3]
+EXTI3_IRQHandler         0x800'0901         Code  Wk  startup_stm32f411xe.o [3]
+EXTI4_IRQHandler         0x800'0905         Code  Wk  startup_stm32f411xe.o [3]
+EXTI9_5_IRQHandler       0x800'0929         Code  Wk  startup_stm32f411xe.o [3]
+FLASH_IRQHandler         0x800'08f1         Code  Wk  startup_stm32f411xe.o [3]
+FPU_IRQHandler           0x800'09b5         Code  Wk  startup_stm32f411xe.o [3]
+GPIO_IRQHandling         0x800'0661   0x16  Code  Gb  gpio_stm32f411ceux.o [5]
+GPIO_IRQInterruptConfig
+                         0x800'0533   0xf0  Code  Gb  gpio_stm32f411ceux.o [5]
+GPIO_IRQPriorityConfig   0x800'0623   0x3e  Code  Gb  gpio_stm32f411ceux.o [5]
+GPIO_Init                0x800'0293  0x294  Code  Gb  gpio_stm32f411ceux.o [5]
+GPIO_PeriClockControl    0x800'0199   0xfa  Code  Gb  gpio_stm32f411ceux.o [5]
+GPIO_ToggleOutputPin     0x800'0527    0xc  Code  Gb  gpio_stm32f411ceux.o [5]
+HAL_IncTick              0x800'0889   0x18  Code  Wk  stm32f4xx_hal.o [4]
+HardFault_Handler        0x800'08a3    0x2  Code  Gb  stm32f4xx_it.o [2]
+I2C1_ER_IRQHandler       0x800'094d         Code  Wk  startup_stm32f411xe.o [3]
+I2C1_EV_IRQHandler       0x800'0949         Code  Wk  startup_stm32f411xe.o [3]
+I2C2_ER_IRQHandler       0x800'0955         Code  Wk  startup_stm32f411xe.o [3]
+I2C2_EV_IRQHandler       0x800'0951         Code  Wk  startup_stm32f411xe.o [3]
+I2C3_ER_IRQHandler       0x800'09b1         Code  Wk  startup_stm32f411xe.o [3]
+I2C3_EV_IRQHandler       0x800'09ad         Code  Wk  startup_stm32f411xe.o [3]
+MemManage_Handler        0x800'08a5    0x2  Code  Gb  stm32f4xx_it.o [2]
+NMI_Handler              0x800'08a1    0x2  Code  Gb  stm32f4xx_it.o [2]
+OTG_FS_IRQHandler        0x800'0999         Code  Wk  startup_stm32f411xe.o [3]
+OTG_FS_WKUP_IRQHandler   0x800'0971         Code  Wk  startup_stm32f411xe.o [3]
+PVD_IRQHandler           0x800'08e5         Code  Wk  startup_stm32f411xe.o [3]
+PendSV_Handler           0x800'08af    0x2  Code  Gb  stm32f4xx_it.o [2]
+RCC_IRQHandler           0x800'08f5         Code  Wk  startup_stm32f411xe.o [3]
+RTC_Alarm_IRQHandler     0x800'096d         Code  Wk  startup_stm32f411xe.o [3]
+RTC_WKUP_IRQHandler      0x800'08ed         Code  Wk  startup_stm32f411xe.o [3]
+Region$$Table$$Base      0x800'0810          --   Gb  - Linker created -
+Region$$Table$$Limit     0x800'0824          --   Gb  - Linker created -
+Reset_Handler            0x800'08b9         Code  Wk  startup_stm32f411xe.o [3]
+SDIO_IRQHandler          0x800'0979         Code  Wk  startup_stm32f411xe.o [3]
+SPI1_IRQHandler          0x800'0959         Code  Wk  startup_stm32f411xe.o [3]
+SPI2_IRQHandler          0x800'095d         Code  Wk  startup_stm32f411xe.o [3]
+SPI3_IRQHandler          0x800'0981         Code  Wk  startup_stm32f411xe.o [3]
+SPI4_IRQHandler          0x800'09b9         Code  Wk  startup_stm32f411xe.o [3]
+SPI5_IRQHandler          0x800'09bd         Code  Wk  startup_stm32f411xe.o [3]
+SVC_Handler              0x800'08ab    0x2  Code  Gb  stm32f4xx_it.o [2]
+SysTick_Handler          0x800'08b1    0x8  Code  Gb  stm32f4xx_it.o [2]
+SystemInit               0x800'08c9    0xc  Code  Gb  system_stm32f4xx.o [1]
+TAMP_STAMP_IRQHandler    0x800'08e9         Code  Wk  startup_stm32f411xe.o [3]
+TIM1_BRK_TIM9_IRQHandler
+                         0x800'092d         Code  Wk  startup_stm32f411xe.o [3]
+TIM1_CC_IRQHandler       0x800'0939         Code  Wk  startup_stm32f411xe.o [3]
+TIM1_TRG_COM_TIM11_IRQHandler
+                         0x800'0935         Code  Wk  startup_stm32f411xe.o [3]
+TIM1_UP_TIM10_IRQHandler
+                         0x800'0931         Code  Wk  startup_stm32f411xe.o [3]
+TIM2_IRQHandler          0x800'093d         Code  Wk  startup_stm32f411xe.o [3]
+TIM3_IRQHandler          0x800'0941         Code  Wk  startup_stm32f411xe.o [3]
+TIM4_IRQHandler          0x800'0945         Code  Wk  startup_stm32f411xe.o [3]
+TIM5_IRQHandler          0x800'097d         Code  Wk  startup_stm32f411xe.o [3]
+USART1_IRQHandler        0x800'0961         Code  Wk  startup_stm32f411xe.o [3]
+USART2_IRQHandler        0x800'0965         Code  Wk  startup_stm32f411xe.o [3]
+USART6_IRQHandler        0x800'09a9         Code  Wk  startup_stm32f411xe.o [3]
+UsageFault_Handler       0x800'08a9    0x2  Code  Gb  stm32f4xx_it.o [2]
+WWDG_IRQHandler          0x800'08e1         Code  Wk  startup_stm32f411xe.o [3]
+__cmain                  0x800'0825         Code  Gb  cmain.o [8]
+__exit                   0x800'0859   0x14  Code  Gb  exit.o [9]
+__iar_copy_init3         0x800'0799   0x2a  Code  Gb  copy_init3.o [8]
+__iar_data_init3         0x800'07c5   0x28  Code  Gb  data_init.o [8]
+__iar_init_vfp           0x800'07ed         Code  Gb  fpinit_M.o [7]
+__iar_program_start      0x800'086d         Code  Gb  cstartup_M.o [8]
+__low_level_init         0x800'0843    0x4  Code  Gb  low_level_init.o [6]
+__vector_table           0x800'0000         Data  Gb  startup_stm32f411xe.o [3]
+_call_main               0x800'0831         Code  Gb  cmain.o [8]
+_exit                    0x800'084d         Code  Gb  cexit.o [8]
+delay                    0x800'06dd    0xc  Code  Gb  main.o [2]
+exit                     0x800'0847    0x4  Code  Gb  exit.o [6]
+main                     0x800'06e9   0x7a  Code  Gb  main.o [2]
+uwTick                  0x2000'0000    0x4  Data  Gb  stm32f4xx_hal.o [4]
+uwTickFreq              0x2000'0004    0x1  Data  Gb  stm32f4xx_hal.o [4]
+
+
+[1] = C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\CMSIS_6603591812247902717.dir
+[2] = C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\Core_13247989168731456611.dir
+[3] = C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\EWARM_18443280873093131863.dir
+[4] = C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\STM32F4xx_HAL_Driver_1244631019742807970.dir
+[5] = C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Obj\Src_16888587958509051496.dir
+[6] = dl7M_tln.a
+[7] = m7M_tls.a
+[8] = rt7M_tl.a
+[9] = shb_l.a
+
+  2'466 bytes of readonly  code memory
+     30 bytes of readonly  data memory
+  1'029 bytes of readwrite data memory
+
+Errors: none
+Warnings: none

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\some code files\stm32f411ceu6\Debug\Exe\API_Driver.out</Path>
+            <Output>
+                <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\stm\Embedded C Arm\Embedded Coding\STM32_driver\some code files\stm32f411ceu6\Debug\List\API_Driver.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>

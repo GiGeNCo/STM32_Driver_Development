@@ -1,0 +1,45 @@
+# ninja log v5
+1	49	7200085510030685	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Obj/main.o	7817d50cfcb60a46
+1	221	7199223618741096	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/shuffle/randomcodes/driverdev/Debug/Obj/main.o	140c4afab936d8fa
+4	128	7199191264269315	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/shuffle/randomcodes/driverdev/Debug/Obj/driver/Src/stm32f103c8xx.h_gpio_driver.o	4b0910a3097720bc
+2	58	7199223648812449	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/shuffle/randomcodes/driverdev/Debug/Exe/dd.out	125d65a1d4f097a7
+5	348	7199417250438390	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Obj/driver/Src/stm32f103c8xx.h_gpio_driver.o	c752a48acea21fd1
+50	76	7200085510343121	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Exe/dd.out	f4be639d7bb94da9
+1	110	7200086208647507	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Obj/main.o	7817d50cfcb60a46
+111	136	7200086208800920	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Exe/dd.out	f4be639d7bb94da9
+1	48	7200086460184886	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Obj/main.o	7817d50cfcb60a46
+49	75	7200086460497409	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Exe/dd.out	f4be639d7bb94da9
+1	47	7200086762978524	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Obj/main.o	7817d50cfcb60a46
+48	73	7200086763134782	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Exe/dd.out	f4be639d7bb94da9
+6	118	7200100330580122	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Obj/main.o	7817d50cfcb60a46
+1	153	7200100331048923	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Obj/driver/Src/stm32f103c8xx.h_gpio_driver.o	c752a48acea21fd1
+154	186	7200100331361528	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Exe/dd.out	f4be639d7bb94da9
+1	47	7200100561825639	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Obj/main.o	7817d50cfcb60a46
+49	74	7200100562138178	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Exe/dd.out	f4be639d7bb94da9
+1	47	7200101218529570	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Obj/main.o	7817d50cfcb60a46
+48	73	7200101218757179	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Exe/dd.out	f4be639d7bb94da9
+2	53	7200102802025987	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Obj/main.o	7817d50cfcb60a46
+54	83	7200102802494771	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Exe/dd.out	f4be639d7bb94da9
+1	47	7200103087046261	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Obj/main.o	7817d50cfcb60a46
+48	73	7200103087358777	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Exe/dd.out	f4be639d7bb94da9
+1	106	7200104333611447	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Obj/main.o	7817d50cfcb60a46
+107	132	7200104333923966	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Exe/dd.out	f4be639d7bb94da9
+1	46	7200105338416803	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Obj/main.o	7817d50cfcb60a46
+47	72	7200105338729229	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Exe/dd.out	f4be639d7bb94da9
+1	124	7200107439310836	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Obj/driver/Src/stm32f103c8xx.h_gpio_driver.o	c752a48acea21fd1
+125	157	7200107439623279	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Exe/dd.out	f4be639d7bb94da9
+5	118	7200140787599938	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Obj/main.o	7817d50cfcb60a46
+120	208	7200140788496217	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Exe/dd.out	f4be639d7bb94da9
+3	281	7200142775423861	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Obj/main.o	7817d50cfcb60a46
+284	371	7200142776416510	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Exe/dd.out	f4be639d7bb94da9
+3	107	7200142983438461	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Obj/main.o	7817d50cfcb60a46
+109	173	7200142984167707	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Exe/dd.out	f4be639d7bb94da9
+3	130	7200143338439657	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Obj/main.o	7817d50cfcb60a46
+133	195	7200143339139798	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Exe/dd.out	f4be639d7bb94da9
+3	107	7200143783015274	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Obj/main.o	7817d50cfcb60a46
+109	170	7200143783715277	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Exe/dd.out	f4be639d7bb94da9
+4	135	7200143978254222	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Obj/main.o	7817d50cfcb60a46
+137	199	7200143979000312	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Exe/dd.out	f4be639d7bb94da9
+20	335	7204892236531308	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Obj/main.o	7817d50cfcb60a46
+8	346	7204892236631295	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Obj/driver/Src/stm32f103c8xx.h_gpio_driver.o	c752a48acea21fd1
+349	438	7204892237681306	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/driverdev/Debug/Exe/dd.out	f4be639d7bb94da9

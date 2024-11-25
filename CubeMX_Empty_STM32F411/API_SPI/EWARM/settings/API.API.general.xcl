@@ -1,0 +1,15 @@
+C:\iar\ewarm-9.60.3\arm\bin\armPROC.dll
+
+ C:\iar\ewarm-9.60.3\arm\bin\armSTLINK.dll
+
+ "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\EWARM\API\Exe\API.out"
+
+ --plugin=C:\iar\ewarm-9.60.3\arm\bin\armLibSupportUniversal.dll
+
+ --device_macro=C:\iar\ewarm-9.60.3\arm/config/debugger/ST/STM32F4xx.dmac
+
+ --flash_loader=C:\iar\ewarm-9.60.3\arm/config/flashloader/ST/FlashSTM32F411xE.board
+
+ 
+
+

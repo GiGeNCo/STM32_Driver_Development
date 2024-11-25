@@ -1,0 +1,10 @@
+# ninja log v5
+12	182	7400463400000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/API_Structuring/Debug/BrowseInfo/main.xcl	a304795b830ea949
+5	165	7400479270000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/API_Structuring/Debug/BrowseInfo/driver/src/SPI_STM32F103C8xx.xcl	f7a9f884df3ef4b2
+1	102	7400625477203811	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/API_Structuring/Debug/BrowseInfo/main.pbi	ea94cadb094e674
+104	128	7400625477475991	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/API_Structuring/Debug/BrowseInfo/API_Structuring.pbd	8ee1375e0945ae1a
+1	40	7400493250120911	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/API_Structuring/Debug/BrowseInfo/driver/src/GPIO_STM32F103C8xx.pbi	fb01924824d40a77
+2	463	7400624715843134	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/API_Structuring/Debug/BrowseInfo/API_Structuring.pbw	32a18216ac457f63
+0	32	7400542128872910	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/API_Structuring/Debug/BrowseInfo/driver/src/SPI_STM32F103C8xx.pbi	4232e53567288ef9
+1	173	7400463400000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/API_Structuring/Debug/BrowseInfo/driver/src/GPIO_STM32F103C8xx.xcl	cbc4ee55740b347c
+2	469	7400625536831476	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/API_Structuring/Debug/BrowseInfo/API_Structuring.pbw	32a18216ac457f63

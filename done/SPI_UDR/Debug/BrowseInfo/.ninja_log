@@ -1,0 +1,26 @@
+# ninja log v5
+5	96	7212301310000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/BrowseInfo/main.xcl	94c4877dc2d8e94b
+2	97	7309830743264778	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/BrowseInfo/myDriver/Src/stm32f103c8xx.h_gpio_driver.pbi	21022fe7c1d0d736
+8	69	7212301310000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/BrowseInfo/myDriver/Src/stm32f103c8_SPI.xcl	6a538916b37d90c8
+94	318	7375545980000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI_UDR/Debug/BrowseInfo/myDriver/Src/stm32f103c8xx.h_gpio_driver.xcl	26282b9447b1c61b
+117	593	7309850672496417	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/BrowseInfo/STMF103_SPI.pbw	575d5e4c2ec7876d
+1	87	7309850667940107	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/BrowseInfo/main.pbi	1402c2d384bccbc3
+1	66	7212301310000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/BrowseInfo/myDriver/Src/stm32f103c8xx.h_gpio_driver.xcl	1554ac43ab567884
+88	115	7309850668240193	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/BrowseInfo/STMF103_SPI.pbd	ae76dec0307bf3bc
+2	84	7309841628691648	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/some code files/SPI/Debug/BrowseInfo/myDriver/Src/stm32f103c8_SPI.pbi	a436d55644168679
+100	272	7375545980000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI_UDR/Debug/BrowseInfo/main.xcl	64fe7c467b5feeb5
+32	288	7375545980000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI_UDR/Debug/BrowseInfo/myDriver/Src/stm32f103c8_SPI.xcl	ca52ef40009dde8f
+319	416	7375545981787887	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI_UDR/Debug/BrowseInfo/myDriver/Src/stm32f103c8xx.h_gpio_driver.pbi	78f88014d0743995
+2	88	7375548835043011	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI_UDR/Debug/BrowseInfo/main.pbi	83cc45f895f21df6
+289	498	7375545982618075	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI_UDR/Debug/BrowseInfo/myDriver/Src/stm32f103c8_SPI.pbi	8b11ffb1264b0dad
+90	116	7375548835343151	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI_UDR/Debug/BrowseInfo/STMF103_SPI.pbd	c2ffa932a4a10e59
+119	630	7375548839980601	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI_UDR/Debug/BrowseInfo/STMF103_SPI.pbw	30d01fcf8f8287d0
+1	83	7375549246106461	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI_UDR/Debug/BrowseInfo/main.pbi	83cc45f895f21df6
+85	110	7375549246386524	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI_UDR/Debug/BrowseInfo/STMF103_SPI.pbd	c2ffa932a4a10e59
+113	559	7375549250387382	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI_UDR/Debug/BrowseInfo/STMF103_SPI.pbw	30d01fcf8f8287d0
+2	87	7375551173409383	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI_UDR/Debug/BrowseInfo/main.pbi	83cc45f895f21df6
+89	114	7375551173689564	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI_UDR/Debug/BrowseInfo/STMF103_SPI.pbd	c2ffa932a4a10e59
+116	572	7375551177994016	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI_UDR/Debug/BrowseInfo/STMF103_SPI.pbw	30d01fcf8f8287d0
+2	86	7375554060964970	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI_UDR/Debug/BrowseInfo/main.pbi	83cc45f895f21df6
+88	116	7375554061265035	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI_UDR/Debug/BrowseInfo/STMF103_SPI.pbd	c2ffa932a4a10e59
+118	612	7375554065721106	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/stm/Embedded C Arm/Embedded Coding/STM32_driver/done/SPI_UDR/Debug/BrowseInfo/STMF103_SPI.pbw	30d01fcf8f8287d0
