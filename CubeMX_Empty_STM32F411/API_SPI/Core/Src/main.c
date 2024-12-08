@@ -1,6 +1,6 @@
 
 #include "stm32f411ceux.h"
-
+#include "string.h"
 void delay(uint32_t t)
 {
 	uint32_t i = 0;
@@ -9,12 +9,120 @@ void delay(uint32_t t)
 		i++;
 	}
 }
+/*
+
+        PB15 is SPI2 MOSI
+        PB14 is SPI2 MISO
+        PB13 is SPI2 SCLK
+        PB12 is SPI2 SSEL
+
+*/
+void SPI2_GPIOInits(void)
+{
+    
+    GPIO_Handle_t SPIPins;
+    
+    SPIPins.pGPIOx = GPIOB;
+    SPIPins.GPIO_PinConfig.GPIO_PinMode = GPIO_MODE_ATLF;
+    SPIPins.GPIO_PinConfig.GPIO_PinAltFunMode = 5;
+    SPIPins.GPIO_PinConfig.GPIO_PinOPType = GPIO_OP_TYPE_PP;
+    SPIPins.GPIO_PinConfig.GPIO_PinPuPdControl = GPIO_NO_PUPD;
+    SPIPins.GPIO_PinConfig.GPIO_PinSpeed = GPIO_SPEED_FAST;
+    
+    //SCLK
+    SPIPins.GPIO_PinConfig.GPIO_PinNumber = 13;
+    GPIO_Init(&SPIPins);
+    
+    //MOSI
+    SPIPins.GPIO_PinConfig.GPIO_PinNumber = 15;
+    GPIO_Init(&SPIPins);
+    
+    //MISO
+    //SPIPins.GPIO_PinConfig.GPIO_PinNumber = 14;
+    //GPIO_Init(&SPIPins);
+    
+    //SSEL NSS CS SS Slave select pin
+    SPIPins.GPIO_PinConfig.GPIO_PinMode = GPIO_MODE_OUTPUT;
+    SPIPins.GPIO_PinConfig.GPIO_PinNumber = 12;
+    SPIPins.GPIO_PinConfig.GPIO_PinOPType = GPIO_OP_TYPE_PP;
+    SPIPins.GPIO_PinConfig.GPIO_PinPuPdControl = GPIO_NO_PUPD;
+    SPIPins.GPIO_PinConfig.GPIO_PinSpeed = GPIO_SPEED_FAST;
+    
+    //SPIPins.GPIO_PinConfig.GPIO_PinNumber = 12;
+    GPIO_Init(&SPIPins);
+}
+
+void SPI2_Inits()
+{
+    SPI_Handle_t SPI2Handle;
+    
+    SPI2Handle.pSPIx = SPI2;
+    SPI2Handle.SPIConf.DevMode = SPI_MASTER_MODE;
+    SPI2Handle.SPIConf.BusConf = SPI_BUS_FD;
+    SPI2Handle.SPIConf.SclkSpeed = SPI_CLK_DIV_4;
+    SPI2Handle.SPIConf.CPHA = SPI_CPHA_LOW;
+    SPI2Handle.SPIConf.CPOL = SPI_CPOL_LOW;
+    SPI2Handle.SPIConf.DFF = SPI_DFF_8;
+    SPI2Handle.SPIConf.SSM = SPI_SSM_EN;
+
+    SPI_Init(&SPI2Handle);
+
+}
 
 
 int main()
 {
-        
     
+    SPI2_GPIOInits();
+    
+    SPI2_Inits();
+    
+    SPI_SSIConfig(SPI2, ENABLE);
+    
+    //SPI_PeripheralControl(SPI2, ENABLE);
+    //deselect slave
+    GPIO_WriteToOutputPin(GPIOB,12,1);
+    
+    delay(10);
+    char user_data[] = "Hello SPI";
+    
+    //enable SPI
+    SPI_PeripheralControl(SPI2, ENABLE);
+    delay(10);
+    //select slave 
+    GPIO_WriteToOutputPin(GPIOB,12,0);
+    //send data
+    SPI_SendData(SPI2,(uint8_t *)user_data,strlen(user_data));
+    //lets confirm SPI is not busy
+    while( SPI_GetFlagStatus(SPI2,SPI_BUSY_FLAG) );
+    //Disable the SPI2 peripheral
+    SPI_PeripheralControl(SPI2,DISABLE);    
+    //deselect slave
+    GPIO_WriteToOutputPin(GPIOB,12,1);
+    
+    
+    
+    while(1)
+    {
+        
+
+    }
+    
+    /*
+    SPI_Handle_t spi1;
+    
+    spi1.pSPIx = SPI1;
+    spi1.SPIConf.DevMode = SPI_MASTER_MODE;
+    spi1.SPIConf.DFF = SPI_DFF_8;
+    spi1.SPIConf.SSM = SPI_SSM_EN;
+    spi1.SPIConf.SclkSpeed = SPI_CLK_DIV_2;
+    spi1.SPIConf.BusConf = SPI_BUS_FD;
+    
+    SPI_Init(&spi1);
+    
+    */
+    
+    /*
 	GPIO_Handle_t GpioLed, GpioButton;
 
 	GpioLed.pGPIOx = GPIOC;
@@ -52,16 +160,8 @@ int main()
 		GPIO_IRQPriorityConfig(IRQ_NO_EXTI1,3); //second parameter is NVIC IRQ PRIO (from 0 to 15) - NVIC_IRQ_PRIO0
 		GPIO_IRQInterruptConfig(IRQ_NO_EXTI1,ENABLE);
 	}
-	while(1)
-	{
-		//if(GPIO_ReadFromInputPin(GPIOA,0) == LOW )
-		{
-			delay(200000);
-			//GPIO_ToggleOutputPin(GPIOC,GPIO_PIN_NO_13);
-			
-		}
-		
-	}
+
+*/
 
 }
    

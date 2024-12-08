@@ -1553,6 +1553,9 @@
                 <name>$PROJ_DIR$\..\myDriver\Inc\gpio_stm32f411ceux.h</name>
             </file>
             <file>
+                <name>$PROJ_DIR$\..\myDriver\Inc\spi_stm32f411ceux.h</name>
+            </file>
+            <file>
                 <name>$PROJ_DIR$\..\myDriver\Inc\stm32f411ceux.h</name>
             </file>
         </group>
@@ -1560,6 +1563,9 @@
             <name>Src</name>
             <file>
                 <name>$PROJ_DIR$\..\myDriver\Src\gpio_stm32f411ceux.c</name>
+            </file>
+            <file>
+                <name>$PROJ_DIR$\..\myDriver\Src\spi_stm32f411ceux.c</name>
             </file>
         </group>
     </group>

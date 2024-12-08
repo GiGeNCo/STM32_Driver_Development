@@ -1,100 +1,43 @@
 # ninja log v5
-300	613	7542300549614233	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.o	476d17d0c307367f
-118	417	7542300547568377	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.o	e74c4348eb281b52
-20	471	7542300548220856	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.o	fce4f7777dc98d4f
-420	725	7542300550763976	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.o	46f69595b41153bf
-250	585	7542300549374169	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.o	c45d438942780192
-11	239	7542300545899526	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/Core_13247989168731456611.dir/stm32f4xx_hal_msp.o	e25497384e2578aa
-218	225	7542327237940007	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Exe/API.hex	6a3d2ad1bfc663c1
-3	247	7542300545919534	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/Core_13247989168731456611.dir/stm32f4xx_it.o	5fb8f67d145a3f9f
-241	519	7542300548674353	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/CMSIS_6603591812247902717.dir/system_stm32f4xx.o	b1b6971f1e2fb13e
-25	298	7542300546485300	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.o	ea066b487936336b
-474	733	7542300550793981	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.o	50f8d1f2bd29ba83
-16	391	7542300547429293	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.o	c34852343f1effa6
-394	639	7542300549874325	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.o	38c432a24d87e76d
-588	864	7542300552164316	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.o	140cb981d13674b9
-728	977	7542300553273709	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.o	8b9e69c549e1a10
-2073	2283	7536658513360824	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/EWARM_18443280873093131863.dir/startup_stm32f411xe.o	c04566460917a03e
-736	974	7542300553203696	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.o	485c6570ad4f8fa4
-616	912	7542300552592936	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.o	6046fd5352996e35
-642	954	7542300553063664	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.o	30be657f8d4d1e63
-522	896	7542300552472908	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.o	f1db26009d2dbc44
-4	159	7542327237159832	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/Core_13247989168731456611.dir/main.o	6b65b802d908ef3f
-867	1025	7542300553873864	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/Src_16888587958509051496.dir/gpio_stm32f411ceux.o	a700866ffd4056b8
-160	216	7542327237749965	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Exe/API.out	4a7ffed1172b78b5
-3	80	7542328074872451	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/Core_13247989168731456611.dir/main.o	6b65b802d908ef3f
-81	145	7542328075512589	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Exe/API.out	4a7ffed1172b78b5
-147	156	7542328075702631	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Exe/API.hex	6a3d2ad1bfc663c1
-2	71	7542328909598432	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/Core_13247989168731456611.dir/main.o	6b65b802d908ef3f
-72	127	7542328910168556	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Exe/API.out	4a7ffed1172b78b5
-129	136	7542328910328586	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Exe/API.hex	6a3d2ad1bfc663c1
-3	68	7542329187498694	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/Core_13247989168731456611.dir/main.o	6b65b802d908ef3f
-69	123	7542329188058815	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Exe/API.out	4a7ffed1172b78b5
-125	134	7542329188218853	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Exe/API.hex	6a3d2ad1bfc663c1
-2	67	7542329490813543	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/Core_13247989168731456611.dir/main.o	6b65b802d908ef3f
-69	134	7542329491453684	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Exe/API.out	4a7ffed1172b78b5
-136	143	7542329491633727	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Exe/API.hex	6a3d2ad1bfc663c1
-2	163	7542331217282813	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/Core_13247989168731456611.dir/main.o	6b65b802d908ef3f
-164	222	7542331217922951	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Exe/API.out	4a7ffed1172b78b5
-224	232	7542331218082990	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Exe/API.hex	6a3d2ad1bfc663c1
-4	76	7542331554748881	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/Core_13247989168731456611.dir/main.o	6b65b802d908ef3f
-78	138	7542331555349016	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Exe/API.out	4a7ffed1172b78b5
-140	148	7542331555529056	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Exe/API.hex	6a3d2ad1bfc663c1
-3	76	7542332451707768	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Obj/Core_13247989168731456611.dir/main.o	6b65b802d908ef3f
-78	134	7542332452287899	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Exe/API.out	4a7ffed1172b78b5
-136	145	7542332452457932	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API/EWARM/API/Exe/API.hex	6a3d2ad1bfc663c1
-5	94	7542334011046137	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Obj/Core_13247989168731456611.dir/main.o	ab72f542e5f3a940
-1	395	7542334013996797	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Obj/Core_13247989168731456611.dir/stm32f4xx_hal_msp.o	22211a6eec393451
-15	404	7542334014056811	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Obj/Core_13247989168731456611.dir/stm32f4xx_it.o	19ee3ba064502b41
-8	430	7542334014156838	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Obj/CMSIS_6603591812247902717.dir/system_stm32f4xx.o	20956698a5d92aa2
-11	449	7542334014446897	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.o	1782a563c13d6223
-19	479	7542334014846983	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.o	68323f3c8db708a9
-95	542	7542334015497143	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.o	ac64cb991db6c0b0
-407	675	7542334016757411	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.o	2a737a4d9bfeadc0
-433	683	7542334016817425	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.o	a60e8b55147cb4e4
-398	717	7542334017217517	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.o	8c0f375b564ba26a
-452	766	7542334017697625	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.o	e617c7ab5cdb7d70
-545	820	7542334018257747	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.o	1044ecb3b26ae9e7
-822	857	7542334018697845	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Obj/EWARM_18443280873093131863.dir/startup_stm32f411xe.o	ffe3e27f5a2db1c3
-481	912	7542334019177958	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.o	b1a6e24e4161c9f8
-678	943	7542334019488021	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.o	bcbcd97f56698d52
-686	988	7542334019938125	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.o	7fdcbd1e3189e7b
-719	1068	7542334020728299	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.o	e1e93036bd9408f3
-769	1083	7542334020818324	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.o	10eca0432b01d0ce
-860	1087	7542334020898341	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.o	8650faadc06a1a46
-914	1099	7542334021128397	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Obj/Src_16888587958509051496.dir/gpio_stm32f411ceux.o	36db95aa57b8c06a
-946	1141	7542334021518475	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.o	6a3eb20bdb427261
-1143	1214	7542334022238645	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Exe/API.out	f14e320115c46849
-1216	1224	7542334022438682	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API - Copy/EWARM/API/Exe/API.hex	2acb68289df63cb0
-9	251	7542334894184492	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/Core_13247989168731456611.dir/main.o	93bdbdf0b66e5945
-1	341	7542334895044694	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/Core_13247989168731456611.dir/stm32f4xx_it.o	39e263ea38d5a8fa
-5	349	7542334895054686	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/Core_13247989168731456611.dir/stm32f4xx_hal_msp.o	ac4fb5a56f229f58
-253	469	7542334896384986	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/CMSIS_6603591812247902717.dir/system_stm32f4xx.o	a8a5681e11c5f25e
-12	477	7542334896354973	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.o	627a056f36760902
-21	509	7542334896555026	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.o	b92842bda67bf6d8
-16	569	7542334897325196	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.o	e0b83f0e741984ba
-352	664	7542334898355425	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.o	2d09cc47dc51a5dc
-472	698	7542334898725515	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.o	4e34d9388ca9102f
-480	743	7542334899155604	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.o	fea540670fcfeaff
-572	810	7542334899815751	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.o	82a52eabb9e804d8
-344	830	7542334899935782	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.o	17d458b6d34854bf
-512	856	7542334900265858	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.o	142de514346a8d40
-702	974	7542334901456120	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.o	34e78080046b1b67
-666	999	7542334901646162	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.o	572a6d724b7a0544
-977	1019	7542334901976234	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/EWARM_18443280873093131863.dir/startup_stm32f411xe.o	2387b62d363e0c11
-745	1066	7542334902376324	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.o	ef10714284e98119
-813	1086	7542334902596382	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.o	be49e00e02b59658
-859	1093	7542334902656387	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.o	156afad3bebb9ffb
-1001	1164	7542334903416558	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/Src_16888587958509051496.dir/gpio_stm32f411ceux.o	c365403e143c2f87
-833	1169	7542334903416558	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.o	5d4a981da8f7cfe9
-1171	1251	7542334904286753	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Exe/API.out	45f069fbe652508c
-1253	1261	7542334904486794	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Exe/API.hex	94c7ecf0b1474051
-3	159	7542339298123975	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/Core_13247989168731456611.dir/main.o	93bdbdf0b66e5945
-160	230	7542339298844136	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Exe/API.out	45f069fbe652508c
-232	241	7542339299054184	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Exe/API.hex	94c7ecf0b1474051
-2	59	7542339746446105	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/Core_13247989168731456611.dir/main.o	93bdbdf0b66e5945
-60	119	7542339747036239	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Exe/API.out	45f069fbe652508c
-121	129	7542339747206275	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Exe/API.hex	94c7ecf0b1474051
-0	55	7542340002153948	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/Core_13247989168731456611.dir/main.o	93bdbdf0b66e5945
-3	59	7542340329180607	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Exe/API.out	45f069fbe652508c
-61	69	7542340329340652	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Embedded Coding/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Exe/API.hex	94c7ecf0b1474051
+46	539	7552001440115515	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/Src_16888587958509051496.dir/spi_stm32f411ceux.o	1290103e2dc76b1e
+2	791	7543527892689310	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/Core_13247989168731456611.dir/stm32f4xx_it.o	b6832827cdb308c8
+995	1517	7543527900096575	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.o	16b7a14a3b537624
+166	287	7553888949576437	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Exe/API.out	c4f79eae63f789a6
+16	1017	7543527894829793	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/Core_13247989168731456611.dir/stm32f4xx_hal_msp.o	b389a11b418c1c23
+1411	2085	7543527905233046	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.o	fd54c3547dbdf033
+1313	1906	7543527903772719	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.o	5dbf2a3ea99e482b
+5	164	7553888948371620	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/Core_13247989168731456611.dir/main.o	4b09588be2350017
+45	1004	7543527894529724	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.o	601261ec238db5
+33	990	7543527894529724	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/CMSIS_6603591812247902717.dir/system_stm32f4xx.o	a9a9f39966df5cef
+24	1238	7543527897130313	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.o	d287e7ff189c8d67
+796	1307	7543527897946072	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.o	e0ab543ee68b78e6
+706	1462	7543527899346411	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.o	1c45935f2da1e88a
+1009	1406	7543527898976322	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.o	48dc78c7ffd0a695
+1022	1448	7543527899396404	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.o	cca45ca6018f6ea9
+1244	1862	7543527903572685	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.o	78ec78ba415b2a3
+1923	2122	7543527906305915	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/EWARM_18443280873093131863.dir/startup_stm32f411xe.o	fb4c2d7bc04bc98e
+1467	1917	7543527903872740	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.o	23d882d4bb05d533
+1522	2074	7543527904752942	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.o	aecf28c06a46104a
+1454	2097	7543527904652920	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.o	bea1109112a4f91d
+39	580	7552001440525599	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/Src_16888587958509051496.dir/gpio_stm32f411ceux.o	ab670dc2d3f3a8b7
+2089	2401	7543527909026697	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.o	da3f3aade211d110
+1867	2453	7543527909559715	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.o	7ce419b8e8bde8c3
+292	310	7553888949956702	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Exe/API.hex	8e101ffa1277e715
+5	166	7553890842240841	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/Core_13247989168731456611.dir/main.o	4b09588be2350017
+169	305	7553890843474991	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Exe/API.out	c4f79eae63f789a6
+313	331	7553890844006085	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Exe/API.hex	8e101ffa1277e715
+4	203	7553892238106009	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/Core_13247989168731456611.dir/main.o	4b09588be2350017
+205	333	7553892239322748	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Exe/API.out	c4f79eae63f789a6
+337	354	7553892239752830	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Exe/API.hex	8e101ffa1277e715
+5	440	7553904219973708	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/Core_13247989168731456611.dir/main.o	4b09588be2350017
+442	622	7553904221794112	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Exe/API.out	c4f79eae63f789a6
+625	644	7553904222264230	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Exe/API.hex	8e101ffa1277e715
+4	199	7553904758206709	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/Core_13247989168731456611.dir/main.o	4b09588be2350017
+201	350	7553904759632977	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Exe/API.out	c4f79eae63f789a6
+354	370	7553904760032355	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Exe/API.hex	8e101ffa1277e715
+6	180	7553905713212085	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/Core_13247989168731456611.dir/main.o	4b09588be2350017
+183	326	7553905714653382	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Exe/API.out	c4f79eae63f789a6
+331	347	7553905715003654	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Exe/API.hex	8e101ffa1277e715
+4	162	7553906865419800	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Obj/Core_13247989168731456611.dir/main.o	4b09588be2350017
+164	312	7553906866901076	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Exe/API.out	c4f79eae63f789a6
+316	335	7553906867301167	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/STM32_Driver_Development/CubeMX_Empty_STM32F411/API_SPI/EWARM/API/Exe/API.hex	8e101ffa1277e715

@@ -3,9 +3,9 @@
 
 
 /********************************************************
-  * @fn                 - GPIO_Init
+  * @fn                 - GPIO RCC enable func
   *
-  * @brief              - this func initialize user gpio config
+  * @brief              - this func enable or disable peripheral on RCC
   *
   * @param [in]         - *pGPIOx structure(GPIO_RegDef_t) where is  GPIO Registers
   * @param [in]         - EnOrDi Enable or disable clock
@@ -85,6 +85,10 @@ void GPIO_PeriClockControl(GPIO_RegDef_t *pGPIOx, uint8_t EnOrDi)
 void GPIO_Init(GPIO_Handle_t *pGPIOHandle)
 {
 	uint32_t temp = 0;
+        
+        //enable clock
+        GPIO_PeriClockControl(pGPIOHandle->pGPIOx,ENABLE);
+        
 	//1. configure the mode of gpio pin
 	if(pGPIOHandle->GPIO_PinConfig.GPIO_PinMode <= GPIO_MODE_ANALOG)
 	{
@@ -147,7 +151,7 @@ void GPIO_Init(GPIO_Handle_t *pGPIOHandle)
 	pGPIOHandle->pGPIOx->OTYPER |= temp;
 	temp = 0;
 	//5. configure the alternate function
-	if (pGPIOHandle->GPIO_PinConfig.GPIO_PinAltFunMode == GPIO_MODE_ATLF)
+	if (pGPIOHandle->GPIO_PinConfig.GPIO_PinMode == GPIO_MODE_ATLF)
 	{
 		uint32_t temp1 = 0, temp2 = 0;
 		temp1 = pGPIOHandle->GPIO_PinConfig.GPIO_PinNumber / 8;

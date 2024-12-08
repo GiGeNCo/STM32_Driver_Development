@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"C:\iar\ewarm-9.60.3\common\bin\cspybat" -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\EWARM\settings\API.API.general.xcl" --backend -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\EWARM\settings\API.API.driver.xcl" 
+"C:\iar\ewarm-9.60.3\common\bin\cspybat" -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\EWARM\settings\API.API.general.xcl" --backend -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\EWARM\settings\API.API.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"C:\iar\ewarm-9.60.3\common\bin\cspybat" -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\EWARM\settings\API.API.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\EWARM\settings\API.API.driver.xcl" 
+"C:\iar\ewarm-9.60.3\common\bin\cspybat" -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\EWARM\settings\API.API.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\EWARM\settings\API.API.driver.xcl" 
 
 @echo off 
 :end

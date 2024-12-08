@@ -1,27 +1,27 @@
-"C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_exti.c"
+"C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_exti.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\EWARM\API\BrowseInfo\STM32F4xx_HAL_Driver_1244631019742807970.dir\stm32f4xx_hal_exti.pbi.dep
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\EWARM\API\BrowseInfo\STM32F4xx_HAL_Driver_1244631019742807970.dir\stm32f4xx_hal_exti.pbi.dep
 -o
-C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\EWARM\API\BrowseInfo\STM32F4xx_HAL_Driver_1244631019742807970.dir\stm32f4xx_hal_exti.pbi
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\EWARM\API\BrowseInfo\STM32F4xx_HAL_Driver_1244631019742807970.dir\stm32f4xx_hal_exti.pbi
 -I
-C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\Drivers\STM32F4xx_HAL_Driver\Src
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\Drivers\STM32F4xx_HAL_Driver\Src
 -I
-C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\EWARM/../Core/Inc\
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\EWARM/../Core/Inc
 -I
-C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\EWARM/../Drivers/STM32F4xx_HAL_Driver/Inc\
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\EWARM/../Drivers/STM32F4xx_HAL_Driver/Inc
 -I
-C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\EWARM/../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy\
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\EWARM/../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy
 -I
-C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\EWARM/../Drivers/CMSIS/Device/ST/STM32F4xx/Include\
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\EWARM/../Drivers/CMSIS/Device/ST/STM32F4xx/Include
 -I
-C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\EWARM/../Drivers/CMSIS/Include\
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\EWARM/../Drivers/CMSIS/Include
 -I
-C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\EWARM\..\myDriver\Inc\
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\EWARM\..\myDriver\Inc
 -I
 C:\iar\ewarm-9.60.3\arm\inc\c\aarch32
 -I
@@ -29,17 +29,17 @@ C:\iar\ewarm-9.60.3\arm\inc
 -I
 C:\iar\ewarm-9.60.3\arm\inc\c
 -I
-C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\Core\Inc
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\Core\Inc
 -I
-C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\Drivers\STM32F4xx_HAL_Driver\Inc
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\Drivers\STM32F4xx_HAL_Driver\Inc
 -I
-C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\Drivers\STM32F4xx_HAL_Driver\Inc\Legacy
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\Drivers\STM32F4xx_HAL_Driver\Inc\Legacy
 -I
-C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\Drivers\CMSIS\Device\ST\STM32F4xx\Include
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\Drivers\CMSIS\Device\ST\STM32F4xx\Include
 -I
-C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\Drivers\CMSIS\Include
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\Drivers\CMSIS\Include
 -I
-C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\myDriver\Inc
+C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\myDriver\Inc
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0

@@ -37,7 +37,7 @@
         <EnforceMemoryConfiguration>1</EnforceMemoryConfiguration>
     </ArmDriver>
     <DebugChecksum>
-        <Checksum>868008762</Checksum>
+        <Checksum>3033948930</Checksum>
     </DebugChecksum>
     <Exceptions>
         <StopOnUncaught>_ 0</StopOnUncaught>
@@ -73,7 +73,8 @@
         <ITMlogFile>$PROJ_DIR$\ITM.log</ITMlogFile>
     </SWOTraceHWSettings>
     <struct_types>
-        <Fmt0>GPIO_PinConfig_t-GPIO_PinNumber	3	0</Fmt0>
+        <Fmt0>GPIO_PinConfig_t-GPIO_PinAltFunMode	3	0</Fmt0>
+        <Fmt1>GPIO_PinConfig_t-GPIO_PinNumber	3	0</Fmt1>
     </struct_types>
     <Trace2>
         <Enabled>0</Enabled>
@@ -135,10 +136,10 @@
         <mode>0</mode>
     </DisassembleMode>
     <Breakpoints2>
-        <Bp0>_ 1 "EMUL_CODE" "{$PROJ_DIR$\..\Core\Src\main.c}.41.2" 0 0 1 "" 0 "" 0</Bp0>
+        <Bp0>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\Core\Src\main.c}.176.13" 0 0 1 "" 0 "" 0</Bp0>
         <Bp1>_ 0 "EMUL_DATA" "GPIO_MODE_ANALOG" 0 0 0 0 4294967295</Bp1>
-        <Bp2>_ 1 "EMUL_CODE" "{$PROJ_DIR$\..\Core\Src\main.c}.59.4" 0 0 1 "" 0 "" 0</Bp2>
-        <Bp3>_ 1 "EMUL_CODE" "{$PROJ_DIR$\..\Core\Src\main.c}.52.3" 0 0 1 "" 0 "" 0</Bp3>
+        <Bp2>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\Core\Src\main.c}.172.9" 0 0 1 "" 0 "" 0</Bp2>
+        <Bp3>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\Core\Src\main.c}.172.9" 0 0 1 "" 0 "" 0</Bp3>
         <Count>4</Count>
     </Breakpoints2>
     <Aliases>

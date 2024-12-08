@@ -9,9 +9,15 @@
             </Output>
         </Parent>
         <Parent>
-            <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\EWARM\API\Exe\API.out</Path>
+            <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\EWARM\API\Exe\API.out</Path>
             <Output>
-                <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\EWARM\API\List\API.map</Path>
+                <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\EWARM\API\List\API.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\Interrupt\Dropbox\stm32\CubeMX_Empty_STM32F411\API\EWARM\API\Exe\API.out</Path>
+            <Output>
+                <Path>C:\Users\Interrupt\Dropbox\stm32\CubeMX_Empty_STM32F411\API\EWARM\API\List\API.map</Path>
             </Output>
         </Parent>
         <Parent>
@@ -21,9 +27,9 @@
             </Output>
         </Parent>
         <Parent>
-            <Path>C:\Users\Interrupt\Dropbox\stm32\CubeMX_Empty_STM32F411\API\EWARM\API\Exe\API.out</Path>
+            <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\EWARM\API\Exe\API.out</Path>
             <Output>
-                <Path>C:\Users\Interrupt\Dropbox\stm32\CubeMX_Empty_STM32F411\API\EWARM\API\List\API.map</Path>
+                <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\EWARM\API\List\API.map</Path>
             </Output>
         </Parent>
     </Tool>
