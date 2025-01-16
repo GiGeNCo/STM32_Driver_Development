@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Mastering_STM32\STM32F411\API_SPI\EWARM\API\Exe\API.out</Path>
+            <Output>
+                <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Mastering_STM32\STM32F411\API_SPI\EWARM\API\List\API.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Mastering_STM32\STM32F411\API_SPI - Arduino\EWARM\API\Exe\API.out</Path>
+            <Output>
+                <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Mastering_STM32\STM32F411\API_SPI - Arduino\EWARM\API\List\API.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\EWARM\API\Exe\API.out</Path>
+            <Output>
+                <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\STM32_Driver_Development\CubeMX_Empty_STM32F411\API_SPI\EWARM\API\List\API.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\EWARM\API\Exe\API.out</Path>
+            <Output>
+                <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API_SPI\EWARM\API\List\API.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\Interrupt\Dropbox\stm32\CubeMX_Empty_STM32F411\API\EWARM\API\Exe\API.out</Path>
+            <Output>
+                <Path>C:\Users\Interrupt\Dropbox\stm32\CubeMX_Empty_STM32F411\API\EWARM\API\List\API.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API\EWARM\API\Exe\API.out</Path>
+            <Output>
+                <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API\EWARM\API\List\API.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API - Copy\EWARM\API\Exe\API.out</Path>
+            <Output>
+                <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Embedded Coding\CubeMX_Empty_STM32F411\API - Copy\EWARM\API\List\API.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>

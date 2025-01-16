@@ -1,0 +1,554 @@
+# ninja log v5
+1	478	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_hal_msp.xcl	8ab9bb03ebfd4653
+481	672	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.xcl	b598bd1f7a890ab9
+2258	2703	7536455536897354	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.pbi	748ac67a3f46769
+70	486	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.xcl	c6cdf9c2eefbfe7e
+92	523	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.xcl	70385aeae04c0960
+456	711	7556113304868011	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.pbi	6ed37a076ef35e17
+43	188	7556123772216933	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+64	496	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_it.xcl	936188023c70ba79
+85	505	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.xcl	c046ff82db633e08
+1827	2279	7536455532600939	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.pbi	56cfdb4ee34a26a6
+1868	2271	7536455532580932	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.pbi	cab93cef6a9c11db
+507	716	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.xcl	84af6bfcf4c6a2d8
+489	681	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.xcl	96a6c1d80ade6cd5
+2771	3122	7536455541113692	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/API_part3.pbi	505cff7e4877f7ab
+1736	2112	7554357244467352	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.pbi	d570488adfeefe2d
+1802	1867	7554357242408935	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	d66523a6325f0e39
+2758	3085	7536455540743605	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/API_part0.pbi	4af4108bfd79737
+77	514	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/CMSIS_6603591812247902717.dir/system_stm32f4xx.xcl	66a593ac4c44fd59
+39	50	7556123770834950	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+498	698	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.xcl	dbc562949d0b0d1b
+516	707	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.xcl	afb4fe2005ceefd0
+870	1027	7536455520000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.xcl	eff7ad9af2fc8aeb
+526	791	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.xcl	5b25533db0ef54c5
+1860	2292	7536455532790982	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.pbi	d81ae84416fd7cd
+674	858	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.xcl	2331c43b4494a5ac
+4	42	7556123770724916	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+684	868	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.xcl	de481aa987673554
+507	673	7554357230000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.xcl	256fdbf8faa85038
+701	880	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.xcl	cd9fd33c80e264a9
+710	911	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.xcl	d9df4db19e27925a
+861	1035	7536455520000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.xcl	437513c2a2c84f16
+883	1043	7536455520000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.xcl	c7ad4e23d9fb1ac2
+516	683	7554357230000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.xcl	8ac48c743f6eb47b
+2273	2769	7536455537227425	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.pbi	2a681ccb7ffd07f9
+1037	1824	7536455528094508	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.pbi	8409e627d3d82de3
+793	1833	7536455528094508	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_hal_msp.pbi	deb250fd4126a60b
+719	1841	7536455528114515	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	c983c4be6473f059
+1029	1849	7536455528224539	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/CMSIS_6603591812247902717.dir/system_stm32f4xx.pbi	c281901bfcd6c1b0
+914	1858	7536455528334563	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.pbi	7e6921a632d34bc8
+1045	1866	7536455528344568	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.pbi	866cac2d17ab8b19
+360	476	7556113300000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.xcl	981921a0ecdf1b30
+1835	2242	7536455532290867	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_it.pbi	a67842801a502fd2
+134	250	7556113300000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.xcl	da7a339527814f5d
+1843	2255	7536455532420898	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.pbi	92ec9072abbc7348
+197	333	7555635217319006	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/API.pbd	318289e47838292a
+477	700	7556113304827996	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_hal_msp.pbi	43fae45225c4285e
+1385	1698	7554357240715480	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.pbi	47bc7e87f144afe9
+1851	2301	7536455532880999	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.pbi	e703fd88be21fc5
+2244	2665	7536455536511812	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.pbi	31feb4a5d5f75c2e
+712	920	7556113306968478	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.pbi	7501ef02bffa142f
+2303	2756	7536455537057391	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.pbi	a20edac18bb2a5ae
+2294	2762	7536455537097392	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.pbi	d6573155868ac0d4
+2281	2775	7536455537247431	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.pbi	5c621547438e811f
+2667	3016	7536455540023436	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.pbi	33a90520898d8bc2
+2705	3133	7536455541213721	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/API_part1.pbi	3714d6c225a13fcf
+701	1036	7556113308188755	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.pbi	5a26fe50c9745f71
+2764	3150	7536455541383739	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/API_part2.pbi	cdf3e31f71cc8ecb
+16	132	7556113290000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.xcl	536e115239b5c161
+3018	3274	7536455542594008	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/API_part4.pbi	bcdd405a52e30497
+3275	3593	7536455545799823	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/API.pbd	73b9b16ee8923e03
+3594	7252	7536455581726900	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/API.pbw	d57bfb229cac0465
+526	691	7554357230000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.xcl	cf760539a9f8804f
+693	1357	7554357237294989	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.pbi	efd76e9703aa9a69
+6	38	7556123770714914	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+146	255	7556113300000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.xcl	df17b4bd52ea59f8
+252	369	7556113300000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.xcl	bb42ef884508a098
+39	335	7554357220000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_hal_msp.xcl	c03a9025c9686f35
+48	342	7554357220000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.xcl	de3d22fabc38634e
+53	349	7554357220000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.xcl	ee9e99efe741479a
+43	356	7554357220000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.xcl	af49e35eeb0270f
+1	364	7554357220000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_it.xcl	ee2200770d1d1afe
+36	371	7554357220000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/CMSIS_6603591812247902717.dir/system_stm32f4xx.xcl	62ff3657aa7a5024
+337	489	7554357220000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.xcl	467548261a8a099f
+13	138	7556113290000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.xcl	cd1a2fef295d4940
+10	111	7556113290000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_hal_msp.xcl	9dc67dc7e027fa8d
+351	505	7554357220000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.xcl	eeea579cf9500f9c
+344	514	7554357220000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.xcl	f61a6cbb81a43334
+358	523	7554357220000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.xcl	8d12d167d40ee86c
+366	532	7554357220000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.xcl	d14fbfce3f18065d
+373	541	7554357220000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.xcl	d5c242ebc944d26b
+493	664	7554357230000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.xcl	fbe095a1e70a0141
+1369	1742	7554357241004813	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.pbi	76a7e1a8fc550037
+534	745	7554357230000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.xcl	d67814682d5621f6
+543	752	7554357230000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.xcl	8f9e7ad8dd028639
+667	809	7554357230000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.xcl	88254aaa434fc54c
+677	817	7554357230000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.xcl	306f2115402f7498
+685	837	7554357230000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.xcl	ed0906f8bb6fe319
+1	39	7555635214377232	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	2b2df48b2c81b256
+748	1367	7554357237399158	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.pbi	de0d58f75b0fdc74
+755	1375	7554357237431952	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.pbi	2b22a418045d02b4
+907	1383	7554357237461955	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_hal_msp.pbi	f3aeee3edcccd77c
+820	1390	7554357237501964	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/CMSIS_6603591812247902717.dir/system_stm32f4xx.pbi	109eec4bf4a01544
+812	1398	7554357237551977	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_it.pbi	ac68502cf6631e30
+1359	1718	7554357240922911	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.pbi	8a73fe7ac97183d4
+1400	1726	7554357240922911	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.pbi	d097e26c1d65d99b
+1377	1734	7554357240964804	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.pbi	e618f3cb8d144ebe
+1392	1750	7554357241044821	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.pbi	496a51e8fcf97334
+1729	1801	7554357241753282	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	dde4527114d78bc9
+1700	2054	7554357244277895	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.pbi	8c203f838598fa92
+1752	2100	7554357244287900	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.pbi	66196cac852aeb84
+1721	2106	7554357244467352	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.pbi	a3f734f7bbb7e391
+1744	2118	7554357244492217	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.pbi	1e6e93452eef0537
+2108	2125	7554357245012819	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/API_part4.pbi	c115650da2bb0c1c
+1869	2193	7554357245683911	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.pbi	d03c76aeb7fae972
+39	196	7555635215958871	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/API_part0.pbi	cd4bd63a2b69a656
+2056	2388	7554357247642822	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/API_part1.pbi	8ce7558fb95b8cb5
+2114	2395	7554357247707082	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/API_part2.pbi	36f850a8b9923d8b
+2195	2419	7554357247954418	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/API_part3.pbi	e96ed9d78f597630
+118	239	7556113300000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.xcl	115395b657b18cff
+334	1238	7555635225882765	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/API.pbw	3657b85e60d54997
+1	103	7556113290000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/CMSIS_6603591812247902717.dir/system_stm32f4xx.xcl	fd8b27a6e9e0f250
+112	234	7556113300000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.xcl	d4de78ef1b2a151f
+262	380	7556113300000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.xcl	401c38a23b244234
+7	117	7556113290000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_it.xcl	466bc3a4afbc0abc
+20	144	7556113290000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.xcl	a40277321706e5d2
+104	244	7556113300000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.xcl	538ca9e4f5dc250f
+140	261	7556113300000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.xcl	2a94fdac99236b84
+241	358	7556113300000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.xcl	7d74df4357e460a3
+235	348	7556113300000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.xcl	c449b57898bee449
+246	364	7556113300000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.xcl	45bd659be1ce661d
+370	472	7556113300000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.xcl	346f93ed2f0595f8
+350	455	7556113300000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.xcl	665b65ead2fb1121
+1	46	7556123770724916	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+257	374	7556113300000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.xcl	5b3470b8c3cfa649
+430	767	7556113305498152	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/CMSIS_6603591812247902717.dir/system_stm32f4xx.pbi	1f24bf5863e7f67a
+376	617	7556113303997808	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.pbi	dea43e9d009f0f9c
+382	644	7556113304267870	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.pbi	a352e5cd1852adba
+618	842	7556113306248313	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_it.pbi	844d1fcaebc2ad56
+473	706	7556113304868011	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.pbi	d6f4e88f9f1d1f46
+768	986	7556113307678643	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.pbi	1e81fe5af38d1156
+645	864	7556113306468362	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.pbi	7e0e0c36732c2972
+707	915	7556113306968478	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.pbi	4c0d9f63735810d
+865	1095	7556113308778894	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.pbi	28bea705a36e4bd4
+1096	1303	7556113310849348	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.pbi	7df22b4f758b45a0
+844	1192	7556113309749103	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.pbi	f99eba2ddbefd994
+987	1217	7556113309999158	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.pbi	338f417f7f239800
+922	1161	7556113309399027	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.pbi	f7f5ace8b9463df
+916	1156	7556113309389026	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.pbi	63d863b103e9742e
+47	195	7556123772296944	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+1162	1387	7556113311709542	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part2.pbi	25ab6996172abe41
+1194	1406	7556113311909595	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part1.pbi	dc5d4f81a0509f
+196	314	7556123773478819	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+314	1164	7556123781612927	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+5	37	7556123832896193	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+2	42	7556123832926209	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+7	46	7556123832956212	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+38	50	7556123833026226	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+47	194	7556123834476553	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+43	196	7556123834496552	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+197	315	7556123835676822	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+316	1152	7556123843728656	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+6	37	7556123894963338	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+4	41	7556123894983357	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+1	45	7556123894983357	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+39	50	7556123895093371	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+43	189	7556123896493682	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+46	198	7556123896583707	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+199	314	7556123897743962	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+315	1170	7556123905965815	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+5	41	7556123957262438	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+2	45	7556123957292443	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+7	52	7556123957372464	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+42	57	7556123957392486	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+46	197	7556123958832799	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+53	198	7556123958842798	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+198	312	7556123959983051	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+313	1156	7556123968066575	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+7	37	7556124019327480	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+2	42	7556124019347489	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+5	46	7556124019347489	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+38	51	7556124019457512	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+47	198	7556124020947843	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+43	200	7556124020967853	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+200	315	7556124022118113	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+316	1209	7556124030722713	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+6	38	7556124081952118	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+4	42	7556124081962121	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+1	46	7556124081962121	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+39	50	7556124082082146	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+43	194	7556124083523121	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+47	197	7556124083563129	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+198	314	7556124084729998	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+315	1153	7556124092790458	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+4	38	7556124144001543	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+6	41	7556124144011546	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+39	47	7556124144111565	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+1	143	7556124145061782	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+42	185	7556124145481875	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+144	287	7556124146502105	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+288	404	7556124147672369	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+404	1248	7556124155759768	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+6	38	7556124207069481	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+4	43	7556124207089495	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+1	47	7556124207099499	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+40	52	7556124207199522	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+45	193	7556124208619835	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+48	203	7556124208719861	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+203	321	7556124209900123	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+322	1165	7556124217991945	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+5	36	7556124269202219	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+2	40	7556124269232224	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+7	44	7556124269252231	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+37	49	7556124269312241	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+41	188	7556124270742564	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+46	191	7556124270762576	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+191	304	7556124271892825	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+305	1190	7556124280444812	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+6	36	7556124331698270	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+1	40	7556124331708274	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+37	47	7556124331808296	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+4	142	7556124332758508	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+41	186	7556124333208610	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+143	284	7556124334188831	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+285	399	7556124335339093	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+400	1242	7556124343430912	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+5	36	7556124394741557	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+7	41	7556124394771565	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+1	45	7556124394781572	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+37	49	7556124394871593	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+42	192	7556124396308964	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+46	199	7556124396379091	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+199	322	7556124397608817	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+322	1172	7556124405762720	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+7	44	7556124457072539	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+1	49	7556124457092551	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+5	54	7556124457102555	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+45	58	7556124457212573	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+55	202	7556124458662901	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+50	204	7556124458692902	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+205	338	7556124460023210	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+339	1207	7556124468365086	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+4	35	7556124519581432	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+6	39	7556124519601438	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+36	47	7556124519711463	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+1	141	7556124520636547	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+40	182	7556124521055441	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+142	285	7556124522085674	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+286	402	7556124523258866	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+403	1245	7556124531337472	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+4	38	7556124582613981	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+6	43	7556124582613981	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+1	47	7556124582623980	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+44	54	7556124582768660	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+40	185	7556124584078902	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+48	196	7556124584198934	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+197	312	7556124585349197	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+312	1157	7556124593461865	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+5	37	7556124644734946	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+2	41	7556124644744951	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+7	45	7556124644754952	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+38	51	7556124644874990	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+46	189	7556124646249350	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+42	193	7556124646289362	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+193	311	7556124647476531	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+312	1152	7556124655532239	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+6	38	7556124706861683	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+4	42	7556124706861683	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+1	47	7556124706871685	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+39	52	7556124706992552	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+43	190	7556124708389345	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+48	202	7556124708521227	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+203	319	7556124709684649	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+319	1167	7556124717815332	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+6	38	7556124769037046	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+5	42	7556124769047050	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+2	46	7556124769047050	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+39	50	7556124769158699	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+43	186	7556124770518380	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+47	197	7556124770627597	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+197	313	7556124771788608	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+314	1152	7556124779837417	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+6	37	7556124831112376	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+5	42	7556124831142380	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+1	46	7556124831142380	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+38	51	7556124831242409	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+43	188	7556124832632722	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+47	196	7556124832712740	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+196	314	7556124833893008	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+314	1149	7556124841904819	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+6	36	7556124893206427	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+5	39	7556124893236448	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+37	46	7556124893326455	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+1	142	7556124894266079	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+40	181	7556124894664152	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+143	291	7556124895759296	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+292	460	7556124897456976	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+461	1316	7556124905658820	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+4	35	7556124956994299	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+1	41	7556124957024294	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+6	45	7556124957054301	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+37	51	7556124957154329	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+47	194	7556124958584649	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+42	196	7556124958614661	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+196	315	7556124959804925	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+316	1187	7556124968186817	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+7	40	7556125019520895	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+2	44	7556125019520895	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+5	48	7556125019530897	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+41	52	7556125019650925	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+45	198	7556125021111253	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+49	199	7556125021131256	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+200	317	7556125022301521	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+318	1171	7556125030493364	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+5	36	7556125081774039	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+2	41	7556125081794040	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+7	46	7556125081804048	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+38	50	7556125081894062	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+47	192	7556125083324386	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+42	193	7556125083344397	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+194	309	7556125084504651	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+310	1151	7556125092603062	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+6	38	7556125143906326	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+4	42	7556125143916331	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+1	47	7556125143916331	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+39	51	7556125144046364	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+43	192	7556125145456676	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+48	200	7556125145536696	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+200	315	7556125146686956	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+316	1158	7556125154778775	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+1	33	7556127620854024	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+34	42	7556127620954046	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+43	157	7556127622094301	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+158	1006	7556127630246137	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+1	34	7556127782105764	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+35	44	7556127782205795	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+45	167	7556127783436063	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+168	1021	7556127791637910	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+6	38	7556127993787625	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+4	43	7556127993797628	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+1	47	7556127993807629	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+40	51	7556127993927303	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+45	193	7556127995337612	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+48	200	7556127995407640	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+200	314	7556127996553481	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+315	1163	7556128004655864	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+4	35	7556128106267353	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	3d1d5f32c71bab1f
+1	40	7556128106307360	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	50a0a8ff45fb806f
+6	44	7556128106327367	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	513748ba15a15aed
+36	48	7556128106387373	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	bf56775e2850c562
+45	190	7556128107827698	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	3fbae9bcb1551388
+41	192	7556128107847715	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	cb0eccc35477aa2b
+193	315	7556128109067977	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbd	36063b826293fea
+315	1170	7556128117269816	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI - Arduino/EWARM/API/BrowseInfo/API.pbw	f68fdb3229665ed2
+7	108	7556128610000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_hal_msp.xcl	ef0664abb2e515c7
+4	113	7556128610000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/CMSIS_6603591812247902717.dir/system_stm32f4xx.xcl	b17bae3c0a5dac7a
+0	119	7556128610000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_it.xcl	637becd30d798d4c
+11	125	7556128610000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.xcl	e7998736409cc9b1
+14	130	7556128610000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.xcl	cb7049315d5cfed6
+18	137	7556128610000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.xcl	39dc6927fb1ecfa0
+109	221	7556128610000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.xcl	e074623dcd499e9a
+121	226	7556128610000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.xcl	823e7ccb3d2114f5
+114	231	7556128610000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.xcl	8589f43b948c8acd
+126	237	7556128610000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.xcl	82305591102e31df
+132	243	7556128610000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.xcl	db8e9e04b79ae294
+139	248	7556128610000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.xcl	4dd35c589a2107f0
+222	326	7556128610000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.xcl	26a5a0ad5a7a2f7e
+233	343	7556128610000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.xcl	56392cb468fd3632
+239	348	7556128610000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.xcl	902edf87edc900fb
+227	353	7556128610000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.xcl	bb3d51e23fd9a017
+251	359	7556128620000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.xcl	d8c5e27d369a93a0
+244	365	7556128620000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.xcl	12a0fcb5b947d3fe
+349	409	7556128620729146	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+328	433	7556128620000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.xcl	bb84956869a0abfe
+344	438	7556128620000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.xcl	c11e0de5abda594b
+354	450	7556128620000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.xcl	a9a84ed8f295caf4
+366	751	7556128624149922	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/CMSIS_6603591812247902717.dir/system_stm32f4xx.pbi	d4a6124e8553cf2e
+361	759	7556128624219940	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_it.pbi	5427e282003b219d
+434	774	7556128624369969	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.pbi	ef9594b19d1529f7
+410	779	7556128624379966	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.pbi	25c31a954285d4d9
+440	784	7556128624399978	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.pbi	d60f7ccbe99a5055
+452	796	7556128624600018	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.pbi	8a9fca3c536dca0e
+760	1006	7556128626700487	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.pbi	38ee8a526fa3c9d3
+775	1012	7556128626710491	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.pbi	a7be27412407ab7b
+780	1017	7556128626730500	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.pbi	bca09c86c7e7a862
+785	1022	7556128626780511	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.pbi	d5b8798a78ba771c
+1018	1063	7556128627280620	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	af2aeae54745d069
+753	1097	7556128627600694	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_hal_msp.pbi	c9e35fa40ddb2e46
+1099	1150	7556128628130816	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	3e0838f5586aed9a
+798	1166	7556128628290851	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.pbi	1053529addbf7a04
+1024	1256	7556128629211060	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.pbi	7432ccdbfde59a08
+1013	1262	7556128629261071	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.pbi	195363bb058a67fc
+1008	1268	7556128629311077	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.pbi	2a2b263f1f41b119
+1258	1273	7556128629371093	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	e23be553e8412656
+1065	1315	7556128629781184	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.pbi	31aa8c84c1e617cd
+1151	1389	7556128630531356	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.pbi	b44bb431e6484549
+1169	1480	7556128631431565	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.pbi	6c42b086bcfeb8a0
+1270	1493	7556128631581592	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+1264	1500	7556128631651609	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part1.pbi	a13fca6a1c1d79d6
+1275	1509	7556128631741631	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part2.pbi	6428119ca0de2865
+1481	1631	7556128632971903	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part3.pbi	34bf3609f069d463
+1632	1746	7556128634112160	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+1747	2594	7556128642254007	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+1	36	7556129247097393	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+37	183	7556129248577726	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+184	297	7556129249717987	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+298	1138	7556129257799927	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+1	35	7556129359438523	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+36	175	7556129360840382	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+176	290	7556129361988196	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+291	1132	7556129370075378	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+1	36	7556131232628533	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+37	175	7556131234027873	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+176	291	7556131235185651	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+292	1134	7556131243275621	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+2	153	7556131849134853	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+154	307	7556131850684922	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+308	437	7556131851990227	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+438	1321	7556131860292101	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+1	150	7556137194212546	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+151	308	7556137195808001	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+309	437	7556137197088922	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+437	1361	7556137205958630	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+1	39	7556137508793957	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+40	198	7556137510394358	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+199	350	7556137511917373	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+351	1296	7556137520829797	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+1	37	7556138628414982	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+38	189	7556138629939624	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+190	320	7556138631240721	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+1	950	7556138692137064	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+1	36	7556138994655125	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+37	263	7556138996930694	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+264	413	7556138998428831	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+1	887	7556139058104238	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+1	150	7556141977667283	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+1	138	7556142030627935	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+139	265	7556142031900972	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+266	1184	7556142040648782	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+2	41	7556142545078501	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+42	185	7556142546525721	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+186	299	7556142547670199	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+2	938	7556142614194492	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+1	37	7556142966935647	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+38	188	7556142968444178	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+189	316	7556142969727498	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+317	1246	7556142978627347	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+2	39	7556145192908232	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+1	143	7556145246285612	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+144	274	7556145247601147	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+275	1239	7556145256876956	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+1	39	7556145458943231	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+40	198	7556145460537635	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+199	339	7556145461938843	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+339	1246	7556145470613445	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+1	41	7556146929914767	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+42	197	7556146931487574	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+198	349	7556146932997786	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+349	1253	7556146941712988	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+2	36	7556153481938367	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+37	178	7556153483353921	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+179	292	7556153484491991	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+293	1183	7556153493076241	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+2	85	7556206746589917	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+87	370	7556206749446783	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+371	630	7556206752054149	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+631	2320	7556206768287950	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+3	94	7556209598638965	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+96	438	7556209602086984	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+440	730	7556209605022273	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+731	2342	7556209620382569	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+3	158	7561197570892719	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	af2aeae54745d069
+161	237	7561197571698043	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part4.pbi	e23be553e8412656
+239	594	7561197575262201	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+597	4456	7561197613107903	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+3	89	7561207382324393	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+91	510	7561207386537540	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+513	852	7561207389958384	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+3	2130	7561207462943137	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+4	108	7561211463043300	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+111	447	7561211466444114	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+449	822	7561211470194992	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+824	2897	7561211490174524	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+5	229	7561544935228336	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+232	641	7561544939358420	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+643	976	7561544942729631	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+978	5493	7561544987245796	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+4	110	7561546153110252	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+112	488	7561546156901327	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+490	810	7561546160116661	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+812	3519	7561546186209400	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+3	104	7561552361238960	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+107	458	7561552364804727	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+461	750	7561552367728087	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+752	3245	7561552391861255	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+3	98	7561558412898917	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+100	464	7561558416564143	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+466	804	7561558419972436	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+807	3318	7561558444346107	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+3	98	7561559054238261	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+105	534	7561559058606382	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+536	862	7561559061884715	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+864	3341	7561559086035824	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+3	111	7561563389191135	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+113	482	7561563392916712	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+485	793	7561563396036494	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+796	3230	7561563419575709	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+4	109	7561566660920441	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+111	471	7561566664554255	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+473	780	7561566667659133	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+782	3250	7561566691392409	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+5	155	7569048970484169	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+158	748	7569048976440367	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+750	1138	7569048980307627	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+1140	5056	7569049018602304	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+3	165	7586214381032668	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	39f62cc2579e2dbc
+167	634	7586214385727129	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API_part0.pbi	9c5e94f3bfae96cf
+636	1003	7586214389415473	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbd	80d544bdeab5c3a
+1005	5063	7586214429236161	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/API.pbw	934b2d917dbfd84d
+10	112	7586274490000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.xcl	b84529ba98ad61ae
+7	116	7586274490000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_hal_msp.xcl	ea21a6413f35170b
+1	120	7586274490000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_it.xcl	1d97635974af2f1c
+5	125	7586274490000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.xcl	149cdff23541b599
+13	130	7586274490000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.xcl	3393ecb90ea6bb13
+16	136	7586274490000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.xcl	5fb25801c232621e
+117	234	7586274490000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.xcl	bcc8d273ff12fd82
+114	241	7586274490000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/CMSIS_6603591812247902717.dir/system_stm32f4xx.xcl	7d16dac265a01c36
+127	247	7586274490000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.xcl	2a43cde60475745b
+122	252	7586274490000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.xcl	265ca840e492d01b
+132	259	7586274490000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.xcl	996d87d90ea0c920
+137	264	7586274490000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.xcl	398995cdfe06245a
+236	350	7586274490000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.xcl	62415f63bafcd517
+243	360	7586274490000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.xcl	2fef8ede32f897d5
+249	365	7586274490000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.xcl	678c8199c17555ec
+254	370	7586274490000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.xcl	54da8b319cccb9b2
+260	380	7586274490000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.xcl	e453c356df961f3f
+266	384	7586274490000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.xcl	551662799b1dea63
+352	401	7586274497610022	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	202ac8378cf285f
+362	453	7586274490000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.xcl	a667bb2433a65955
+367	824	7586274501834926	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_hal_msp.pbi	a62e970a6a5a057b
+455	828	7586274501878739	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.pbi	d67555e22d784b08
+386	835	7586274501940312	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.pbi	c40bbc3789f1fe08
+381	839	7586274501949288	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_it.pbi	2ae7aa19f506df42
+403	848	7586274502084195	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.pbi	9ed52aeb317e5e1a
+371	855	7586274502155929	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.pbi	b7939c1008e86563
+825	1071	7586274504311518	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/CMSIS_6603591812247902717.dir/system_stm32f4xx.pbi	9635db799fba930a
+830	1076	7586274504316622	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.pbi	33da57115df50e6b
+841	1081	7586274504373773	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.pbi	a6909bd34815bb17
+837	1097	7586274504563910	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.pbi	8220d2ef5df8bff
+857	1111	7586274504707728	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.pbi	18e1c4e2679c2bdb
+850	1199	7586274505587274	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.pbi	e3bd1218ecfbcc95
+1112	1291	7586274506520752	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	46d670bea32f34a6
+1078	1317	7586274506772675	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.pbi	1b6917ffbfac67d5
+1099	1345	7586274507050839	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.pbi	de0bee3e266a2ea
+1200	1423	7586274507832635	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.pbi	67721edad3939437
+1073	1430	7586274507899556	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.pbi	b4634549b0b39b22
+1082	1435	7586274507950884	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.pbi	7aeea6c18e8c79c1
+1292	1490	7586274508513014	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Backup (1) of API_part1.pbi	7b3f6d28c36d35f6
+1319	1502	7586274508640602	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Backup (1) of API_part2.pbi	32f0939f447d894d
+1436	1603	7586274509640705	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Backup (1) of API_part3.pbi	15032df69dd48776
+1347	1638	7586274509989410	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.pbi	836f0362f43228f2
+1639	1750	7586274511116061	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Backup (1) of API_part4.pbi	2b078d511dda3c9c
+1751	1891	7586274512531398	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Backup (1) of API.pbd	cab82aa94c371555
+1892	2812	7586274521155012	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI_RX_TX - Arduino/EWARM/API/BrowseInfo/Backup (1) of API.pbw	3619fc311c645cf0
