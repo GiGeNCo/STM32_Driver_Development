@@ -1,0 +1,289 @@
+# ninja log v5
+1	478	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_hal_msp.xcl	8ab9bb03ebfd4653
+13	149	7586302120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_it.xcl	e30f87dd71c11b5d
+2258	2703	7536455536897354	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.pbi	748ac67a3f46769
+70	486	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.xcl	c6cdf9c2eefbfe7e
+481	672	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.xcl	b598bd1f7a890ab9
+271	402	7586302120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.xcl	c2e92d91bc737318
+64	496	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_it.xcl	936188023c70ba79
+92	523	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.xcl	70385aeae04c0960
+1868	2271	7536455532580932	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.pbi	cab93cef6a9c11db
+85	505	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.xcl	c046ff82db633e08
+1827	2279	7536455532600939	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.pbi	56cfdb4ee34a26a6
+489	681	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.xcl	96a6c1d80ade6cd5
+507	716	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.xcl	84af6bfcf4c6a2d8
+145	276	7586302120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.xcl	645c152f08287e94
+9	138	7586302120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/CMSIS_6603591812247902717.dir/system_stm32f4xx.xcl	567bf0a16a0b88af
+77	514	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/CMSIS_6603591812247902717.dir/system_stm32f4xx.xcl	66a593ac4c44fd59
+1101	1354	7586302134622838	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.pbi	cf45a0bfdb8646da
+3	88	7587222891546604	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	39816fc539b6d93
+2758	3085	7536455540743605	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/API_part0.pbi	4af4108bfd79737
+2771	3122	7536455541113692	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/API_part3.pbi	505cff7e4877f7ab
+498	698	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.xcl	dbc562949d0b0d1b
+516	707	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.xcl	afb4fe2005ceefd0
+526	791	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.xcl	5b25533db0ef54c5
+870	1027	7536455520000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.xcl	eff7ad9af2fc8aeb
+674	858	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.xcl	2331c43b4494a5ac
+1860	2292	7536455532790982	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.pbi	d81ae84416fd7cd
+684	868	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.xcl	de481aa987673554
+701	880	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.xcl	cd9fd33c80e264a9
+277	410	7586302120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.xcl	552ca4b6aa9090af
+6	143	7586302120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_hal_msp.xcl	9646e134d321aa9
+710	911	7536455510000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.xcl	d9df4db19e27925a
+861	1035	7536455520000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.xcl	437513c2a2c84f16
+883	1043	7536455520000000	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.xcl	c7ad4e23d9fb1ac2
+1037	1824	7536455528094508	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.pbi	8409e627d3d82de3
+2273	2769	7536455537227425	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.pbi	2a681ccb7ffd07f9
+284	417	7586302120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.xcl	39e38560460bea2d
+793	1833	7536455528094508	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_hal_msp.pbi	deb250fd4126a60b
+134	270	7586302120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.xcl	3160392ba5f9efe
+719	1841	7536455528114515	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	c983c4be6473f059
+1029	1849	7536455528224539	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/CMSIS_6603591812247902717.dir/system_stm32f4xx.pbi	c281901bfcd6c1b0
+914	1858	7536455528334563	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.pbi	7e6921a632d34bc8
+1045	1866	7536455528344568	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.pbi	866cac2d17ab8b19
+1835	2242	7536455532290867	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_it.pbi	a67842801a502fd2
+1843	2255	7536455532420898	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.pbi	92ec9072abbc7348
+830	1099	7586302132088033	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.pbi	4434a3498afcfda0
+1851	2301	7536455532880999	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.pbi	e703fd88be21fc5
+184	312	7556112288107187	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/API.pbd	318289e47838292a
+2244	2665	7536455536511812	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.pbi	31feb4a5d5f75c2e
+2303	2756	7536455537057391	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.pbi	a20edac18bb2a5ae
+2294	2762	7536455537097392	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.pbi	d6573155868ac0d4
+2281	2775	7536455537247431	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.pbi	5c621547438e811f
+2667	3016	7536455540023436	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.pbi	33a90520898d8bc2
+2705	3133	7536455541213721	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/API_part1.pbi	3714d6c225a13fcf
+2764	3150	7536455541383739	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/API_part2.pbi	cdf3e31f71cc8ecb
+3018	3274	7536455542594008	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/API_part4.pbi	bcdd405a52e30497
+3275	3593	7536455545799823	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/API.pbd	73b9b16ee8923e03
+3594	7252	7536455581726900	D:/STM32/CubeMX_Empty_STM32F411/API/EWARM/API/BrowseInfo/API.pbw	d57bfb229cac0465
+437	557	7586302120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.xcl	47fa4236dac350da
+418	701	7586302128096161	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.pbi	eff9233408266b23
+139	288	7586302120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.xcl	569e67b1b925be59
+17	161	7586302120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.xcl	18c8c98ab81c932e
+21	155	7586302120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.xcl	42dd362e4bba679e
+156	300	7586302120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.xcl	cd6389321ce1bf07
+150	282	7586302120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.xcl	93573b00851dfeb5
+163	294	7586302120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.xcl	f6f1c2ddeb9c664d
+1075	1331	7586302134402781	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.pbi	cb0897030c29c340
+290	430	7586302120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.xcl	5647cb002c0b1e30
+302	435	7586302120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.xcl	96c069d86f541670
+412	537	7586302120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.xcl	d3aae01f9c9786f3
+296	424	7586302120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.xcl	c8681ed53cc4c9ba
+404	531	7586302120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.xcl	b98f16bc3721fc71
+1	133	7586302120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.xcl	7949fb7c5a782786
+5	103	7587221392644228	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+539	785	7586302128936352	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.pbi	e459b090e9c7b9a4
+709	988	7586302130957768	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.pbi	bc4deae12bce49d8
+533	794	7586302129026366	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_hal_msp.pbi	4b7eb44d696e7a1c
+504	756	7586302128636291	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/CMSIS_6603591812247902717.dir/system_stm32f4xx.pbi	2821528d835556b5
+431	707	7586302128096161	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_it.pbi	55f52badf1a8d209
+703	974	7586302130816773	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.pbi	6a36387e60ff20a6
+795	1073	7586302131817962	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.pbi	430ca33b2a6dbce6
+757	1038	7586302131467881	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.pbi	ef7a6a7117fd3e7c
+787	1063	7586302131717950	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.pbi	332e03305f2fe2e6
+9	126	7587219589221149	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	354174d452492458
+559	828	7586302129376451	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.pbi	40fbe72f1fc76f3d
+989	1230	7586302133398321	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.pbi	a6b40358619e5009
+976	1250	7586302133588369	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.pbi	483f32a253c60f27
+1040	1283	7586302133922681	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.pbi	de61ab0d90433b1d
+2108	2125	7554357245012819	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/API_part4.pbi	c115650da2bb0c1c
+1131	1378	7586302134872891	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.pbi	734aa23ad94af88e
+39	184	7556112286823224	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/API_part0.pbi	cd4bd63a2b69a656
+2056	2388	7554357247642822	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/API_part1.pbi	8ce7558fb95b8cb5
+2114	2395	7554357247707082	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/API_part2.pbi	36f850a8b9923d8b
+2195	2419	7554357247954418	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/API_part3.pbi	e96ed9d78f597630
+345	1255	7556112233989652	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/API.pbw	3657b85e60d54997
+105	486	7587221396485085	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+1285	1534	7586302136443255	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part1.pbi	1a75cecb9942236f
+1355	1576	7586302136863339	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part2.pbi	70a264c54cdca02e
+90	110	7587222891776825	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part4.pbi	f97fc3416b5886dd
+128	526	7587219593332108	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part3.pbi	d7dfa398c8dc7fc2
+111	385	7587222894522356	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+387	2686	7587222916459179	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+3	118	7587223375668425	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	39816fc539b6d93
+120	143	7587223375938656	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part4.pbi	f97fc3416b5886dd
+145	433	7587223378839540	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+435	2542	7587223399101416	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+64	211	7587257374524575	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	354174d452492458
+3	271	7587257374554571	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+274	764	7587257380070321	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+214	766	7587257380070321	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part3.pbi	d7dfa398c8dc7fc2
+768	1103	7587257383461111	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+3	4130	7587257475413328	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+4	113	7587258338614656	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+115	528	7587258342783541	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+3	327	7587258398350697	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+330	2721	7587258421437788	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+3	84	7587275186707177	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+87	439	7587275190277745	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+441	743	7587275193318952	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+2	2350	7587275275996819	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+3	78	7587276036908034	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+81	470	7587276040855500	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+472	820	7587276044346933	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+3	2200	7587276120270062	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+4	101	7587277692930322	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+104	461	7587277696541301	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+463	757	7587277699506917	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+3	2180	7587277781063407	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+3	81	7587278245605394	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+84	448	7587278249306303	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+451	745	7587278252257228	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+3	2165	7587278334241272	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+5	77	7587287702977743	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+79	407	7587287706288591	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+409	701	7587287709228114	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+703	2923	7587287730683919	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+3	78	7587287884537904	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+80	459	7587287888357491	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+3	316	7587287944528530	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+318	2733	7587287967749323	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+3	75	7587288475852153	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+77	589	7587288481006615	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+592	887	7587288483979670	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+889	3240	7587288506508511	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+5	105	7587294279442275	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+108	509	7587294283500170	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+512	824	7587294286651666	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+825	3066	7587294308198816	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+4	114	7587294968946710	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+116	495	7587294972780652	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+497	795	7587294975778019	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+797	3182	7587294998854723	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+2	103	7587296671230049	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+106	547	7587296675679584	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+549	898	7587296679189603	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+899	3311	7587296702421171	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+4	103	7587297059848331	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+106	500	7587297063830747	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+502	793	7587297066759798	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+795	3233	7587297090185318	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+1	107	7587316580182041	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+108	344	7587316582554151	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+345	522	7587316584344565	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+523	2512	7587316603848182	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+1	40	7587317058018905	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+3	218	7587325543004250	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+219	383	7587325544652490	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+2	1742	7587325617424223	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+1	170	7587330098549348	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+171	318	7587330100041160	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+319	441	7587330101271435	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+1	844	7587330166048088	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+1	40	7587330569912119	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+41	191	7587330571432220	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+192	303	7587330572542466	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+2	900	7587330639355632	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+1	140	7587330943022277	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+141	285	7587330944482604	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+286	404	7587330945662634	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+404	1227	7587330953594809	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+1	40	7587331155949506	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+41	197	7587331157519871	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+198	329	7587331158850181	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+1	852	7587331273686708	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+1	39	7587331626551099	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+40	197	7587331628131449	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+198	330	7587331629461747	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+330	1208	7587331637887432	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+2	41	7587331940965989	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+42	213	7587331942681719	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+214	358	7587331944132028	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+359	1282	7587331952978856	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+2	42	7587332507624941	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+43	206	7587332509276999	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+207	346	7587332510667316	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+347	1191	7587332518783601	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+1	38	7587332871792473	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+39	194	7587332873353088	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+195	320	7587332874613368	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+321	1175	7587332882777465	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+1	41	7587333538062901	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+42	195	7587333539608289	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+196	323	7587333540883840	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+324	1168	7587333548945536	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+1	39	7587333952629765	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+40	205	7587333954300138	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+206	349	7587333955733158	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+349	1209	7587333964024945	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+2	37	7587336354751135	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+38	196	7587336356344475	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+197	333	7587336357704791	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+334	1210	7587336366085663	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+1	74	7588035223542014	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	ef7d34c542f3c2ec
+75	319	7588035225989529	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	10129da78792f80d
+320	530	7588035228096708	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	4f125c9254b88744
+4	3749	7588133511578503	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/STM32F411/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	67747c14f860ffd9
+78	564	7590667120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.xcl	f6821434b7c068d4
+2	574	7590667120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.xcl	5a594e6a13e22fee
+91	582	7590667120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.xcl	cdec2c1cf03e24fe
+72	591	7590667120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/CMSIS_6603591812247902717.dir/system_stm32f4xx.xcl	7f7b0c5f6384419e
+100	600	7590667120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.xcl	8bc38c805181fd74
+84	609	7590667120000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.xcl	879567b1c02b08f9
+585	806	7590667130000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.xcl	d14b0e05a54cc718
+576	827	7590667130000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.xcl	9d51e9e35ab14a5d
+567	835	7590667130000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.xcl	c084d000550f39a0
+611	858	7590667130000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.xcl	278a9d4418b3ac7c
+603	867	7590667130000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.xcl	d69c3ad56fbbef02
+594	876	7590667130000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.xcl	4fd712852a9fdc0c
+830	1052	7590667130000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_it.xcl	87f73224b9af4bd8
+821	1061	7590667130000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.xcl	6f27b5b6724293fe
+861	1081	7590667130000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.xcl	a1b215bfe6c237b6
+870	1093	7590667130000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.xcl	e31ae55d5bf9f67f
+846	1168	7590667130000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_hal_msp.xcl	5c094dea625d8fb4
+879	1176	7590667130000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.xcl	fe34316bcceb5c6
+1055	1251	7590667130000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.xcl	1c8f34dc9c55359e
+1064	1260	7590667130000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.xcl	c96e19fb4e10f778
+1084	1306	7590667130000000	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.xcl	1261c545d31ea5dc
+1309	1487	7590667137740399	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	10559e447ca26584
+1179	2250	7590667145377300	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_hal_msp.pbi	3a78cc93e9604f18
+1171	2259	7590667145397315	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/CMSIS_6603591812247902717.dir/system_stm32f4xx.pbi	dd2242db9dcec25a
+1262	2268	7590667145537329	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.pbi	aad675c2e81af928
+1490	2278	7590667145557336	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.pbi	177e4b24bd48481f
+1096	2295	7590667145697367	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/stm32f4xx_it.pbi	2360f027ee222562
+1254	2303	7590667145767390	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.pbi	70a6047d48109828
+2254	2766	7590667150528873	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.pbi	49763a2f83aef247
+2270	2775	7590667150618899	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.pbi	98f5fb1ff7480c47
+2261	2798	7590667150818944	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.pbi	4c7cbb7a1b2e462a
+2280	2806	7590667150908966	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.pbi	62047bb829e0b6f4
+2297	2861	7590667151479090	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.pbi	ebff045df9014c87
+2808	2910	7590667151969207	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/gpio_stm32f411ceux.pbi	3d8ee66009c85b8d
+2305	2942	7590667152289277	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.pbi	669aa91366cc1a71
+2863	2963	7590667152509324	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Src_16888587958509051496.dir/spi_stm32f411ceux.pbi	94ab5c977880b928
+2777	3281	7590667155690036	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.pbi	451e7e45cbe5dd5f
+2769	3355	7590667155800063	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.pbi	34a27b329b19a2c4
+3358	3380	7590667156690261	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part4.pbi	9e74357ecc88de48
+2800	3409	7590667156960333	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.pbi	bd2829a85e0d5acb
+2912	3434	7590667157200378	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.pbi	3226d05d5b0f007a
+2945	3467	7590667157530449	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.pbi	f7049455e398d9ae
+2966	3471	7590667157530449	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.pbi	af3798eb2415ddc
+3382	3784	7590667160736453	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	206a33635e949859
+3284	3809	7590667160986508	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part1.pbi	44c5d38273c310e8
+3474	3848	7590667161366587	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part3.pbi	6a0bb1126caace37
+3412	3859	7590667161476620	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part2.pbi	c297237597b4701b
+3861	4146	7590667164348048	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	70fd1579e4091485
+4148	8158	7590667203674085	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	9a61d93d77cd5cb
+2	189	7590679875171078	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	10559e447ca26584
+192	733	7590679880618454	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	206a33635e949859
+735	1117	7590679884457967	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	70fd1579e4091485
+1120	5348	7590679926049029	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	9a61d93d77cd5cb
+3	76	7590698559219034	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	10559e447ca26584
+79	355	7590698562029660	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	206a33635e949859
+357	593	7590698564410849	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	70fd1579e4091485
+595	2309	7590698580826818	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	9a61d93d77cd5cb
+3	123	7590701012847267	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	10559e447ca26584
+126	566	7590701017289361	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	206a33635e949859
+3	296	7590701071152373	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	70fd1579e4091485
+298	2710	7590701094709698	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	9a61d93d77cd5cb
+4	115	7590704236078206	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	10559e447ca26584
+118	469	7590704239639240	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	206a33635e949859
+471	790	7590704242851724	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	70fd1579e4091485
+792	3072	7590704264857890	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	9a61d93d77cd5cb
+5	110	7590704722975002	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	10559e447ca26584
+112	555	7590704727455738	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	206a33635e949859
+3	307	7590704783721490	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	70fd1579e4091485
+310	2637	7590704806462149	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	9a61d93d77cd5cb
+3	225	7590705568814731	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Core_13247989168731456611.dir/main.pbi	10559e447ca26584
+2	412	7590705623951134	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API_part0.pbi	206a33635e949859
+413	706	7590705626891780	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbd	70fd1579e4091485
+708	3065	7590705649871696	C:/Users/Interrupt/Dropbox/WorkSpace/Embedded/Mastering_STM32/mytests/API_SPI/EWARM/API/BrowseInfo/Backup (1) of API.pbw	9a61d93d77cd5cb

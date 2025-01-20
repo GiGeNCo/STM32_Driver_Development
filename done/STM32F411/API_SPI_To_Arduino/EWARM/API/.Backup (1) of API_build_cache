@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Mastering_STM32\mytests\API_SPI\EWARM\API\Exe\API.out</Path>
+            <Output>
+                <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Mastering_STM32\mytests\API_SPI\EWARM\API\List\API.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Mastering_STM32\STM32F411\API_SPI\EWARM\API\Exe\API.out</Path>
+            <Output>
+                <Path>C:\Users\Interrupt\Dropbox\WorkSpace\Embedded\Mastering_STM32\STM32F411\API_SPI\EWARM\API\List\API.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>

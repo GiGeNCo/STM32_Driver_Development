@@ -24,12 +24,10 @@ void SPI2_GPIOInits(void)
     SPIPins.pGPIOx = GPIOB;
     SPIPins.GPIO_PinConfig.GPIO_PinMode = GPIO_MODE_ATLF;
     SPIPins.GPIO_PinConfig.GPIO_PinAltFunMode = 5;
-    /*
 	SPIPins.GPIO_PinConfig.GPIO_PinOPType = GPIO_OP_TYPE_PP;
     SPIPins.GPIO_PinConfig.GPIO_PinPuPdControl = GPIO_NO_PUPD;
     SPIPins.GPIO_PinConfig.GPIO_PinSpeed = GPIO_SPEED_FAST;
-    */
-	
+
     //SCLK
     SPIPins.GPIO_PinConfig.GPIO_PinNumber = 13;
     GPIO_Init(&SPIPins);
@@ -45,6 +43,7 @@ void SPI2_GPIOInits(void)
     //SSEL NSS CS SS Slave select pin
     SPIPins.GPIO_PinConfig.GPIO_PinNumber = 12;
     SPIPins.GPIO_PinConfig.GPIO_PinMode = GPIO_MODE_OUTPUT;
+	
 	
     //SPIPins.GPIO_PinConfig.GPIO_PinNumber = 12;
     GPIO_Init(&SPIPins);
@@ -85,25 +84,36 @@ int main()
     char user_data[] = "Hello SPI";
     
 	
-	for(uint8_t i = 0; i < 10; i++)
+	
+	for(uint8_t i = 0; i < 5; i++)
 	{
-	  //select slave 
-	  	GPIO_WriteToOutputPin(GPIOB,12,0);
-		delay(10);
+	  
 	  	//enable SPI
 	 	SPI_PeripheralControl(SPI2, ENABLE);
-		delay(10);
-	  	
+		//delay(100);
+		//select slave 
+	  	GPIO_WriteToOutputPin(GPIOB,12,0);
+		//delay(10);
+	  	SPI_PeripheralControl(SPI2,DISABLE); 
+		//delay(10);
+	  	//deselect slave
+	  	GPIO_WriteToOutputPin(GPIOB,12,1);
+		
+		//enable SPI
+	 	SPI_PeripheralControl(SPI2, ENABLE);
+		//delay(100);
+		//select slave 
+	  	GPIO_WriteToOutputPin(GPIOB,12,0);
 	  	//send data
 	  	SPI_SendData(SPI2,(uint8_t *)user_data,strlen(user_data));
 	  	//lets confirm SPI is not busy
 	  	while( SPI_GetFlagStatus(SPI2,SPI_BUSY_FLAG) );
 	  	//Disable the SPI2 peripheral
 	  	SPI_PeripheralControl(SPI2,DISABLE); 
-		delay(10);
+		//delay(10);
 	  	//deselect slave
 	  	GPIO_WriteToOutputPin(GPIOB,12,1);
-	  	delay(10);
+	  	//delay(10);
 	}
 	
 	
